@@ -167,7 +167,4 @@ Important Notes:
 - Keep the comedy alive without letting it undercut emotional truth.
 - Let the final line stand cleanly.
 
-Open Questions:
-- Should the house be visible in silhouette at the end of Part 01, or held for Part 02?
-- Should the key light come from a phone, flashlight, or car interior light?
-- How much of the lake should be visible before the final line?
+
