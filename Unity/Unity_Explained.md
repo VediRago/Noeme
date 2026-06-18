@@ -4,15 +4,15 @@ This document is an author-facing explanation of Unity. It should not become a l
 
 Unity is the point where the separations imposed by the system begin to fail. Across NOEME, separate lives appear independent: Lucreta, Sera, Kael, Erit, and others experience their worlds as isolated and complete. They do not share ordinary memory, and they are not costumes worn by one character. They are real lives connected beneath ordinary identity.
 
-Phil and Abby are not Fragments in the same sense. They matter because their love and choices make Sera possible. Abby is part of the emotional chain that allows Sera to exist, not a Fragment who should be grouped with Lucreta, Sera, Kael, or Erit.
+Phil and Abby are not fragmented lives in the same sense. They matter because their love and choices make Sera possible. Abby is part of the emotional chain that allows Sera to exist, not someone who should be grouped with Lucreta, Sera, Kael, or Erit.
 
 Unity is not a twist, a resurrection, a memory montage, or a clean cosmic victory. It is the emotional realization that the boundaries separating these lives are less absolute than they appear. The audience should arrive at Unity through recognition rather than explanation. Earlier moments become larger, not because they are replaced, but because they gain new context. Lucreta remains Lucreta. Sera remains Sera. Kael remains Kael. Their value is never reduced to clues inside a puzzle.
 
 ## The Condition
 
-The Condition is the recurring resolution pattern that causes connected Fragments to lose eye color and die before they stabilize into continuation. It should first appear biological, mysterious, or tragic. The reader may explain it through illness, virus, mutation, failed treatment, or bad luck. Those explanations may be locally useful, but they are not the full structure.
+The Condition is the recurring resolution pattern that causes connected lives to lose eye color and die before they stabilize into continuation. It should first appear biological, mysterious, or tragic. The reader may explain it through illness, virus, mutation, failed treatment, or bad luck. Those explanations may be locally useful, but they are not the full structure.
 
-The Condition is not removed like an object taken out of a machine. What changes after Unity is more precise: the affected Fragments can no longer be cleanly resolved through the old young-death pathway. Death still exists. Suffering still exists. The past is not undone. What breaks is the imposed resolution pattern attached to this connected structure.
+The Condition is not removed like an object taken out of a machine. What changes after Unity is more precise: the affected lives can no longer be cleanly resolved through the old young-death pathway. Death still exists. Suffering still exists. The past is not undone. What breaks is the imposed resolution pattern attached to this connected structure.
 
 ## Why Unity Happens Through Kael
 
@@ -32,11 +32,11 @@ Unity should never feel like a character reading the rules of the universe. It s
 
 Unity uses recurring images instead of exposition. Bright sky, mirrors, flower crowns, bloody hands, ripples in water, medical light, human hands, cars, crowds, black, white, and grey return as accumulated evidence from different lives. These images should not feel like symbols being decoded one by one. They should feel like too many pieces of lived experience arriving at once.
 
-The echo pattern matters: someone speaks, and Kael echoes. She is not repeating words because she understands them. She becomes the point where different Fragments briefly pass through the same place. This pattern later matters in the hospital ending, where similar residue suggests that Kael remains somewhere beneath continuation without the story confirming it directly.
+The echo pattern matters: someone speaks, and Kael echoes. She is not repeating words because she understands them. She becomes the point where different lives briefly pass through the same place. This pattern later matters in the hospital ending, where similar residue suggests that Kael remains somewhere beneath continuation without the story confirming it directly.
 
 ## Qalm Intervention
 
-Qalm is the hidden continuity architecture behind the story. It is not a god, villain, or moral intelligence. It does not hate the Fragments. It tracks, separates, and resolves outcomes according to its structure.
+Qalm is the hidden continuity architecture behind the story. It is not a god, villain, or moral intelligence. It does not hate these lives. It tracks, separates, and resolves outcomes according to its structure.
 
 When Kael reaches Unity, Qalm detects an impossible overlap and restores separation. It prevents permanent Unity, but it acts too late to preserve the old pattern completely. Kael is contained. The consequence is not.
 
