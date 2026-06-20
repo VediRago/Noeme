@@ -46,6 +46,7 @@ Character Function:
   - Keeps joking, but cannot fully turn the beggar moment into performance.
   - Has no money to offer, which keeps their own financial limits visible.
   - His joke reveals their limits and gives Abby the opening to win the exchange.
+  - Steps into the beat after Abby gives the necklace, physically touching the beggar’s shoulder and saying the old man’s day has turned around.
   - Follows Abby’s rhythm as the street begins compressing around them.
 
 Structural Function:
@@ -60,7 +61,7 @@ World / Scene Texture:
 - People and metal compress around them, forming a narrow passage before the flow opens again without stopping.
 
 Visual / Camera Function:
-- Keep the exchange grounded and close: hand, skirt, necklace, palm, shadow.
+- Keep the exchange grounded and close: hand, skirt, necklace, palm, shoulder, shadow.
 - Let the street pressure continue around the moment.
 - The crossing should feel physical: shoulders, cars, horns, bodies, and narrow movement.
 - Do not isolate Abby as a heroic image; keep her inside the city’s movement.
@@ -77,9 +78,9 @@ F04 — Phil checks his pockets and comes up empty.
 
 F05 — Abby gives the necklace to the beggar.
 
-F06 — The beggar receives it and retreats into the shadows.
+F06 — Phil steps in, shifts Abby aside, touches the old man’s shoulder, and says the old man’s day has turned around.
 
-F07 — Abby turns the moment back into playful luck.
+F07 — The beggar receives it and retreats into the shadows while Abby turns Phil’s bad-luck joke back on him.
 
 F08 — Phil starts to smirk, but the flow of bodies tightens across their path.
 
@@ -118,32 +119,34 @@ F04:
 - Cue:
   - Phil rubs the back of his head, checks his pockets, and finds nothing.
   - His joke should reveal his and Abby's own limits, not make fun of the beggar.
-  - The line gives Abby an opening to take the advantage after the previous banter.
+  - The line sets up Abby’s answer, but she should not answer verbally yet.
 
 F05:
-- Dialogue:
-  - Abby: “If I was trying to avoid bad luck, do you think I would’ve married you?”
 - Cue:
   - The beggar keeps his hand out.
   - Sirens thread through traffic somewhere distant.
   - Abby reaches up and unclasps the necklace from her neck.
-  - She sets it into his palm.
+  - She sets it into his palm before answering Phil’s bad-luck joke.
   - The gesture should feel practical and immediate, not ceremonial.
-  - Abby uses Phil's joke against him while still choosing to help.
+  - Abby answers through action before she answers with dialogue.
 
 F06:
+- Dialogue:
+  - Phil: “Looks like your day just turned around.”
 - Cue:
-  - The beggar stares at the weight of it.
-  - A gentle nudge shifts Abby aside as a hand lands on the old man’s shoulder.
-  - The old man retreats into the shadows.
+  - A gentle nudge shifts Abby aside as Phil's hand lands on the old man’s shoulder.
+  - Phil says the line, not Abby.
+  - The line acknowledges the gift without turning Abby’s act into a grand heroic moment.
+  - The old man begins retreating into the shadows.
 
 F07:
 - Dialogue:
-  - Abby: “Looks like your day just turned around.”
+  - Abby: “If I was trying to avoid bad luck, do you think I would’ve married you?”
   - Abby: “See? Good fortune. Forever. Guaranteed.”
   - Abby: “And do you really need an imaginary list as an excuse to stare at my chest?”
 - Cue:
   - Abby turns back as the old man retreats.
+  - Her bad-luck line comes after the necklace gift and after Phil’s line.
   - She leans slightly in for the final line.
   - The teasing keeps the scene from turning into self-congratulation.
   - She keeps the advantage in the banter by turning Phil's imaginary-list joke back onto him.
@@ -184,6 +187,7 @@ Key Images:
 - Phil checking empty pockets.
 - Abby unclasping her necklace.
 - Necklace placed into the beggar’s palm.
+- Phil’s hand landing on the old man’s shoulder.
 - Beggar retreating into shadow.
 - Bodies and metal compressing around the couple.
 - Street crossing through horns, shoulders, cars, and voices.
@@ -193,27 +197,29 @@ Key Lines:
 - “Spare a coin?”
 - “Could be a sign of good luck.”
 - “I think we’re already cursed. You don’t happen to have a bill stashed next to that imaginary list, do you?”
-- “If I was trying to avoid bad luck, do you think I would’ve married you?”
 - “Looks like your day just turned around.”
+- “If I was trying to avoid bad luck, do you think I would’ve married you?”
 - “See? Good fortune. Forever. Guaranteed.”
 - “And do you really need an imaginary list as an excuse to stare at my chest?”
 - “Let’s go. This isn’t exactly what I pictured for our first afternoon.”
 
 Important Notes:
 - The beggar / necklace beat should not become a grand heroic gesture.
-- Abby gives because she chooses to, then immediately folds the moment back into ordinary humor.
+- Abby gives because she chooses to, then the moment folds back into ordinary humor.
+- Abby’s bad-luck line should come after the necklace gift and after Phil’s “day just turned around” line.
 - Phil’s empty pockets matter: they are not wealthy observers of poverty.
 - Phil's joke should reveal the couple's limits and give Abby an opening in the banter, not mock the beggar.
+- Phil says “Looks like your day just turned around” after stepping in and touching the old man’s shoulder.
 - The city should keep moving around the act of generosity.
 - Scene 40 begins with Abby being pulled toward a sharp cry before Phil redirects her toward the car.
 
 Open Questions:
 - Does the necklace have a specific visual design that should echo later?
-- How visible should the person nudging Abby aside and touching the beggar’s shoulder be?
+- How visible should Phil's hand on the beggar’s shoulder be?
 
 Scene Summary:
-A trembling hand brushes Abby’s skirt. A beggar asks for a coin from beside the wall. Phil checks his pockets and comes up empty, keeping the moment in their teasing rhythm while revealing their own limits. Abby uses the opening to push the joke back at him, then gives the beggar her necklace instead.
+A trembling hand brushes Abby’s skirt. A beggar asks for a coin from beside the wall. Phil checks his pockets and comes up empty, keeping the moment in their teasing rhythm while revealing their own limits. The beggar keeps his hand out as the city noise continues around them. Abby gives the beggar her necklace before answering Phil’s bad-luck joke.
 
-The beggar receives it and retreats into the shadows. Abby turns the act back into playful luck, joking that good fortune is now guaranteed and teasing Phil about needing an excuse to stare at her chest. Before Phil can fully smirk, the city interrupts again.
+Phil steps in, gently shifts Abby aside, touches the old man’s shoulder, and says the old man’s day has turned around. As the beggar retreats into the shadows, Abby turns the bad-luck joke back onto Phil, folds the gesture into playful luck, and teases him about needing an excuse to stare at her chest. Before Phil can fully smirk, the city interrupts again.
 
 People and metal compress around them, forming a narrow passage before the flow opens again without stopping. They cross the street through bodies, cars, horns, shoulders, and overlapping voices. Phil offers Abby his hand and moves them forward through the city pressure toward the car, setting up the next scene.
