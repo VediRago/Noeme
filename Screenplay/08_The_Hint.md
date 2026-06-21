@@ -1,329 +1,317 @@
+Title: NOEME
+Credit: written by
+Author: Diogo Oliveira
 
+THE HINT
 
+INT. ELENA'S HOME — DINING AREA — NIGHT
 
+ISILA, CARES, and SERA sit at the table while ELENA prepares dinner.
 
+The siblings play with each other, laughing between bites of air and unfinished words.
 
+SERA slides her finger across the cracks in the wooden table.
 
+It stops when a distant door slams shut.
 
+TOMAS (O.S.)
 
+Why are you two making so much noise?
 
-**NOEME**
+TOMAS shuts the door hard behind him. As he passes SERA, his shoulder clips her.
 
-**THE HINT**
+TOMAS
 
-**written by**
+Sit down!
 
-**Diogo Oliveira**
+The siblings go still.
 
+TOMAS (CONT'D)
 
-**INT. ELENA'S HOME — DINING AREA — NIGHT**
+Elena. Room. Now.
 
-**ISILA, CARES, and SERA sit at the table while ELENA prepares dinner.**
+ELENA looks at SERA once, then follows him.
 
-**The siblings play with each other, laughing between bites of air and unfinished words.**
+ISILA and CARES slip away toward their room, still whispering to each other, their laughter smaller now.
 
-**SERA slides her finger across the cracks in the wooden table.**
+SERA lowers her eyes to the table.
 
-**It stops when a distant door slams shut.**
+Her finger starts moving again.
 
-**TOMAS (O.S.)**
+It does not last long.
 
-**Why are you two making so much noise?**
+ELENA begins crying behind the door.
 
-**TOMAS shuts the door hard behind him. As he passes SERA, his shoulder clips her.**
+SERA's head turns.
 
-**TOMAS**
+Heavy footsteps come closer.
 
-**Sit down!**
+Her finger detaches from the crack.
 
-**The siblings go still.**
+TOMAS comes out first.
 
-**TOMAS (CONT'D)**
+TOMAS
 
-**Elena. Room. Now.**
+Let's go. We have to take you to the clinic.
 
-**ELENA looks at SERA once, then follows him.**
+ELENA follows behind him, crying, unable to look directly at SERA.
 
-**ISILA and CARES slip away toward their room, still whispering to each other, their laughter smaller now.**
+SERA
 
-**SERA lowers her eyes to the table.**
+Why? Is she sick?
 
-**Her finger starts moving again.**
+No one answers.
 
-**It does not last long.**
+SERA stands.
 
-**ELENA begins crying behind the door.**
+SERA (CONT'D)
 
-**SERA's head turns.**
+Okay. I'll go.
 
-**Heavy footsteps come closer.**
+TOMAS grabs his coat.
 
-**Her finger detaches from the crack.**
+TOMAS
 
-**TOMAS comes out first.**
+You didn't really have an option. Let's go.
 
-**TOMAS**
+As SERA leaves, ELENA rushes after TOMAS and grabs his arm.
 
-**Let's go. We have to take you to the clinic.**
+ELENA
 
-**ELENA follows behind him, crying, unable to look directly at SERA.**
+Please. She's just a child. It's been seven years, Tomas. She's our own.
 
-**SERA**
+TOMAS pulls his arm free.
 
-**Why? Is she sick?**
+TOMAS
 
-**No one answers.**
+And I'm somehow unaware of that?
 
-**SERA stands.**
+He turns back to her.
 
-**SERA (CONT'D)**
+TOMAS (CONT'D)
 
-**Okay. I'll go.**
+Look at us. Look at me.
 
-**TOMAS grabs his coat.**
+His mouth opens again, but nothing comes out.
 
-**TOMAS**
+He shakes his head and leaves.
 
-**You didn't really have an option. Let's go.**
+EXT. ELENA'S HOME — NIGHT
 
-**As SERA leaves, ELENA rushes after TOMAS and grabs his arm.**
+SERA waits outside, leaning against the wall, looking at the sky.
 
-**ELENA**
+When SERA'S eyes shift toward TOMAS, she catches his hand crossing his face as he walks through the dim entryway.
 
-**Please. She's just a child. It's been seven years, Tomas. She's our own.**
+TOMAS
 
-**TOMAS pulls his arm free.**
+Come on. Let's go.
 
-**TOMAS**
+TOMAS passes her and walks ahead.
 
-**And I'm somehow unaware of that?**
+EXT. CLINIC — NIGHT
 
-**He turns back to her.**
+The clinic does not take long to come into view.
 
-**TOMAS (CONT'D)**
+Two LEGION GUARDS stand by the doorway.
 
-**Look at us. Look at me.**
+TOMAS halts.
 
-**His mouth opens again, but nothing comes out.**
+TOMAS
 
-**He shakes his head and leaves.**
+Sera.
 
-**EXT. ELENA'S HOME — NIGHT**
+He looks around.
 
-**SERA waits outside, leaning against the wall, looking at the sky.**
+TOMAS (CONT'D)
 
-**When SERA'S eyes shift toward TOMAS, she catches his hand crossing his face as he walks through the dim entryway.**
+Sera!
 
-**TOMAS**
+SERA hurries closer.
 
-**Come on. Let's go.**
+SERA
 
-**TOMAS passes her and walks ahead.**
+I'm here.
 
-**EXT. CLINIC — NIGHT**
+TOMAS
 
-**The clinic does not take long to come into view.**
+You have to get chipped.
 
-**Two LEGION GUARDS stand by the doorway.**
+TOMAS puts a hand on her shoulder.
 
-**TOMAS halts.**
+TOMAS (CONT'D)
 
-**TOMAS**
+It's the right thing to do. You're getting older. Soon you'll need it for everything. Identification, work, travel, food access.
 
-**Sera.**
+His fingers tighten slightly.
 
-**He looks around.**
+TOMAS (CONT'D)
 
-**TOMAS (CONT'D)**
+We can't shelter you like this anymore.
 
-**Sera!**
+SERA lowers her head.
 
-**SERA hurries closer.**
+Not for long.
 
-**SERA**
+Then she steps ahead of him toward the clinic.
 
-**I'm here.**
+Bright light bleeds a path through the doorway.
 
-**TOMAS**
+INT. CLINIC — RECEPTION — CONTINUOUS
 
-**You have to get chipped.**
+A WOMAN behind the glass writes without looking up.
 
-**TOMAS puts a hand on her shoulder.**
+WOMAN
 
-**TOMAS (CONT'D)**
+Any appointments?
 
-**It's the right thing to do. You're getting older. Soon you'll need it for everything. Identification, work, travel, food access.**
+SERA
 
-**His fingers tighten slightly.**
+I'm here for a chip.
 
-**TOMAS (CONT'D)**
+WOMAN
 
-**We can't shelter you like this anymore.**
+A chip?
 
-**SERA lowers her head.**
+The woman finally lifts her head.
 
-**Not for long.**
+WOMAN (CONT'D)
 
-**Then she steps ahead of him toward the clinic.**
+Weren't you chipped as a baby? Everyone is.
 
-**Bright light bleeds a path through the doorway.**
+TOMAS steps in beside SERA.
 
-**INT. CLINIC — RECEPTION — CONTINUOUS**
+TOMAS
 
-**A WOMAN behind the glass writes without looking up.**
+Her mother was homeless. Her father was probably some addict. Probably died. We weren't aware she didn't have one until recently.
 
-**WOMAN**
+The woman lowers her head again.
 
-**Any appointments?**
+WOMAN
 
-**SERA**
+I see.
 
-**I'm here for a chip.**
+Her pen moves across the form.
 
-**WOMAN**
+WOMAN (CONT'D)
 
-**A chip?**
+Name?
 
-**The woman finally lifts her head.**
+SERA
 
-**WOMAN (CONT'D)**
+Sera.
 
-**Weren't you chipped as a baby? Everyone is.**
+Her legs begin to tremble.
 
-**TOMAS steps in beside SERA.**
+WOMAN
 
-**TOMAS**
+I'll call you in a second. Waiting room is to the left.
 
-**Her mother was homeless. Her father was probably some addict. Probably died. We weren't aware she didn't have one until recently.**
+TOMAS turns toward the chairs.
 
-**The woman lowers her head again.**
+TOMAS
 
-**WOMAN**
+Go. I'll be here when you're done.
 
-**I see.**
+SERA walks toward the waiting room.
 
-**Her pen moves across the form.**
+Her name sounds from the speaker before she reaches a seat.
 
-**WOMAN (CONT'D)**
+SPEAKER
 
-**Name?**
+Sera. Room two.
 
-**SERA**
+Her steps shorten.
 
-**Sera.**
+SPEAKER (CONT'D)
 
-**Her legs begin to tremble.**
+Sera. Room two.
 
-**WOMAN**
+INT. CLINIC — ROOM TWO — CONTINUOUS
 
-**I'll call you in a second. Waiting room is to the left.**
+SERA stops before the door.
 
-**TOMAS turns toward the chairs.**
+DOCTOR (O.S.)
 
-**TOMAS**
+Come in. Sit right there, please.
 
-**Go. I'll be here when you're done.**
+The DOCTOR stands and opens a cabinet, taking out a small machine.
 
-**SERA walks toward the waiting room.**
+DOCTOR
 
-**Her name sounds from the speaker before she reaches a seat.**
+Don't worry. This won't hurt. I just need a small amount of blood so we can enter your biometrics into the system, okay?
 
-**SPEAKER**
+SERA shakes harder.
 
-**Sera. Room two.**
+A prick.
 
-**Her steps shorten.**
+A drop.
 
-**SPEAKER (CONT'D)**
+DOCTOR
 
-**Sera. Room two.**
+See? All done.
 
-**INT. CLINIC — ROOM TWO — CONTINUOUS**
+The DOCTOR releases the blood into the machine.
 
-**SERA stops before the door.**
+The screen blinks orange.
 
-**DOCTOR (O.S.)**
+ON SCREEN: MATCH FOUND.
 
-**Come in. Sit right there, please.**
+His expression changes.
 
-**The DOCTOR stands and opens a cabinet, taking out a small machine.**
+DOCTOR
 
-**DOCTOR**
+Hm. Strange. One moment.
 
-**Don't worry. This won't hurt. I just need a small amount of blood so we can enter your biometrics into the system, okay?**
+He leaves too quickly.
 
-**SERA shakes harder.**
+SERA stands.
 
-**A prick.**
+She looks at the machine.
 
-**A drop.**
+ON SCREEN: MATCH FOUND.
 
-**DOCTOR**
+Still blinking.
 
-**See? All done.**
+She moves to the door and looks through the glass.
 
-**The DOCTOR releases the blood into the machine.**
+The DOCTOR is speaking to the guards.
 
-**The screen blinks orange.**
+Pointing at the room.
 
-**ON SCREEN: MATCH FOUND.**
+Her shaking stops.
 
-**His expression changes.**
+One breath.
 
-**DOCTOR**
+Then the door handle moves.
 
-**Hm. Strange. One moment.**
+SERA throws herself backward.
 
-**He leaves too quickly.**
+The door slams into the first guard.
 
-**SERA stands.**
+GUARD
 
-**She looks at the machine.**
+Get her!
 
-**ON SCREEN: MATCH FOUND.**
+She runs.
 
-**Still blinking.**
+INT. CLINIC — RECEPTION — CONTINUOUS
 
-**She moves to the door and looks through the glass.**
+The guards raise their weapons.
 
-**The DOCTOR is speaking to the guards.**
+As SERA passes the waiting room, TOMAS stands.
 
-**Pointing at the room.**
+For one second, his eyes find hers.
 
-**Her shaking stops.**
+Then he steps into the line.
 
-**One breath.**
+Three shots crack through the clinic.
 
-**Then the door handle moves.**
+SERA looks back once.
 
-**SERA throws herself backward.**
+TOMAS is already falling.
 
-**The door slams into the first guard.**
+Then she faces forward and disappears into the night.
 
-**GUARD**
+FADE TO BLACK.
 
-**Get her!**
-
-**She runs.**
-
-**INT. CLINIC — RECEPTION — CONTINUOUS**
-
-**The guards raise their weapons.**
-
-**As SERA passes the waiting room, TOMAS stands.**
-
-**For one second, his eyes find hers.**
-
-**Then he steps into the line.**
-
-**Three shots crack through the clinic.**
-
-**SERA looks back once.**
-
-**TOMAS is already falling.**
-
-**Then she faces forward and disappears into the night.**
-
-**FADE TO BLACK.**
-
-**END ACT 09**
+END ACT 09
