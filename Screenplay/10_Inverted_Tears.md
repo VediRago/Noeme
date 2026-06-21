@@ -1,87 +1,75 @@
+Title: NOEME
+Credit: written by
+Author: Diogo Oliveira
 
+INVERTED TEARS
 
+INT. ERIT'S HOUSE — HALLWAY — DAY
 
+KAEL moves slowly through a house too rich for her to belong in. She doesn't touch anything. She just looks. The walls are lined with paintings.
 
+She stops at one. Studies it a long moment — not the technique, the feeling. Whoever painted this was not happy when they did.
 
+She moves on.
 
+INT. ERIT'S HOUSE — ERIT'S ROOM — CONTINUOUS
 
+Kael drifts in. Jewelry spilling out of open boxes, makeup scattered across a vanity, dresses she has no name for hanging like a row of other lives.
 
+She picks up a necklace. Turns it in the light. Carries it to the mirror and holds it against her neck.
 
-**NOEME**
+She doesn't recognize the girl looking back.
 
-**INVERTED TEARS**
+Kael reaches for the makeup. Touches a brush, unsure what it is for.
 
-**written by**
+The door opens.
 
-**Diogo Oliveira**
+ERIT — eyes red from crying, wiping her face with the back of her hand — stops cold in the doorway.
 
+She recognizes Kael immediately. The girl her parents have been whispering about. The girl who might save her life.
 
-**INT. ERIT'S HOUSE — HALLWAY — DAY**
+Standing in her room. Wearing her necklace.
 
-**KAEL moves slowly through a house too rich for her to belong in. She doesn't touch anything. She just looks. The walls are lined with paintings.**
+Kael freezes, the brush still in her hand.
 
-**She stops at one. Studies it a long moment — not the technique, the feeling. Whoever painted this was not happy when they did.**
+KAEL
 
-**She moves on.**
-
-**INT. ERIT'S HOUSE — ERIT'S ROOM — CONTINUOUS**
-
-**Kael drifts in. Jewelry spilling out of open boxes, makeup scattered across a vanity, dresses she has no name for hanging like a row of other lives.**
-
-**She picks up a necklace. Turns it in the light. Carries it to the mirror and holds it against her neck.**
-
-**She doesn't recognize the girl looking back.**
-
-**Kael reaches for the makeup. Touches a brush, unsure what it is for.**
-
-**The door opens.**
-
-**ERIT — eyes red from crying, wiping her face with the back of her hand — stops cold in the doorway.**
-
-**She recognizes Kael immediately. The girl her parents have been whispering about. The girl who might save her life.**
-
-**Standing in her room. Wearing her necklace.**
-
-**Kael freezes, the brush still in her hand.**
-
-**KAEL**
-
-**She opens her mouth.  
+She opens her mouth.  
   
 Nothing comes out.  
   
-The words Sera taught her are nowhere to be found.**
+The words Sera taught her are nowhere to be found.
 
-**Erit wipes her eyes again — and something in her face changes. Not anger. Something closer to relief.**
+Erit wipes her eyes again — and something in her face changes. Not anger. Something closer to relief.
 
-**She crosses the room.**
+She crosses the room.
 
-**ERIT**
+ERIT
 
-**No. Base first.**
+No. Base first.
 
-**Erit takes the brush gently from Kael's hand. Turns her toward the mirror. Begins applying the makeup properly.**
+Erit takes the brush gently from Kael's hand. Turns her toward the mirror. Begins applying the makeup properly.
 
-**Kael's eyes follow the brush. Her head turns with it, pulled by the movement instead of the reflection.**
+Kael's eyes follow the brush. Her head turns with it, pulled by the movement instead of the reflection.
 
-**ERIT**
+ERIT
 
-**Stop moving.**
+Stop moving.
 
-**A laugh escapes Erit before she can hide it.**
+A laugh escapes Erit before she can hide it.
 
-**She steadies Kael's face back toward the mirror.**
+She steadies Kael's face back toward the mirror.
 
-**Kael's eyes find her reflection.**
+Kael's eyes find her reflection.
 
-**They widen.**
+They widen.
 
-**A smile breaks through.**
+A smile breaks through.
 
-**Erit finishes. Steps back.**
+Erit finishes. Steps back.
 
-**Kael's smile makes her burst into laughter.**
+Kael's smile makes her burst into laughter.
 
-**The tears that were present when the door opened are now inverted in the mirror — no longer grief. Just two girls laughing in front of it.**
+The tears that were present when the door opened are now inverted in the mirror — no longer grief. Just two girls laughing in front of it.
 
-**END OF SAMPLE PAGE**
+END OF SAMPLE PAGE
