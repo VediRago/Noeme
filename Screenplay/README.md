@@ -1,4 +1,4 @@
-# Screenplay
+# Screenplay Samples
 
 The following screenplay samples were selected from different points of NOEME.
 
