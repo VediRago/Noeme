@@ -1,19 +1,10 @@
 ,lnçoln 
 
-
-
-
-
-
-
-NOEME
+Title: NOEME
+Credit: written by
+Author: Diogo Oliveira
 
 A BLURRED TRAGEDY
-
-written by
-
-Diogo Oliveira
-
 
 EXT. CITY STREETS — LUXURY DISTRICT — DAY
 
