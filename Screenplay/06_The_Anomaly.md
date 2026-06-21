@@ -1,157 +1,148 @@
+NOEME
 
+THE ANOMALY
 
+written by
 
+Diogo Oliveira
 
 
+EXT. CITY ROOFTOP — DAY
 
+Everything is still.
 
+Concrete reaches the horizon in broken plates.
 
+Green grows through the cracks.
 
-**NOEME**
+From the rooftop, she sees streets filled with things that no longer move.
 
-**THE ANOMALY**
+Cars.
 
-**written by**
+Clothes.
 
-**Diogo Oliveira**
+Bones half-covered by grass.
 
+A hand still inside the sleeve of a coat.
 
-**EXT. CITY ROOFTOP — DAY**
+The buildings stand with nothing left to hold.
 
-**Everything is still.**
+Then sky.
 
-**Concrete reaches the horizon in broken plates.**
+Bright.
 
-**Green grows through the cracks.**
+Too bright for what remains beneath it.
 
-**From the rooftop, she sees streets filled with things that no longer move.**
+Her body turns before she decides to move.
 
-**Cars.**
+A building rises farther down the street, different from the others. Not taller. Not cleaner. Only wrong in a way her mind keeps touching.
 
-**Clothes.**
+She starts toward it.
 
-**Bones half-covered by grass.**
+On the way down, she stops between floors, picking up objects from the dust and dropping them almost as quickly.
 
-**A hand still inside the sleeve of a coat.**
+A cracked device.
 
-**The buildings stand with nothing left to hold.**
+A strip of metal.
 
-**Then sky.**
+A child's shoe.
 
-**Bright.**
+Nothing answers.
 
-**Too bright for what remains beneath it.**
+EXT. CITY STREET — DAY
 
-**Her body turns before she decides to move.**
+The street below carries only silence and wind.
 
-**A building rises farther down the street, different from the others. Not taller. Not cleaner. Only wrong in a way her mind keeps touching.**
+The wind is the only thing alive here.
 
-**She starts toward it.**
+She moves through rusted metal and fissured road until she reaches the building that pulled at her.
 
-**On the way down, she stops between floors, picking up objects from the dust and dropping them almost as quickly.**
+Near the entrance, large shapes of metal lie dormant, tubes hanging from them like dried veins.
 
-**A cracked device.**
+Above them, a washed-out billboard leans against the wall.
 
-**A strip of metal.**
+The words beneath it mean nothing to her.
 
-**A child's shoe.**
+The faces do.
 
-**Nothing answers.**
+Two beings.
 
-**EXT. CITY STREET — DAY**
+One smaller between them.
 
-**The street below carries only silence and wind.**
+Mouths open in frozen happiness.
 
-**The wind is the only thing alive here.**
+Hands close enough to touch.
 
-**She moves through rusted metal and fissured road until she reaches the building that pulled at her.**
+KAEL stands beneath them longer than she should.
 
-**Near the entrance, large shapes of metal lie dormant, tubes hanging from them like dried veins.**
+Then the pull sharpens.
 
-**Above them, a washed-out billboard leans against the wall.**
+She goes inside.
 
-**The words beneath it mean nothing to her.**
+INT. ABANDONED BUILDING — DAY
 
-**The faces do.**
+Lights flicker across the walls.
 
-**Two beings.**
+A buzz waits somewhere ahead.
 
-**One smaller between them.**
+There are more bodies here.
 
-**Mouths open in frozen happiness.**
+Too many to step around.
 
-**Hands close enough to touch.**
+Her boots cross bone, cloth, and the remains of things that once held people upright.
 
-**KAEL stands beneath them longer than she should.**
+One room catches her attention.
 
-**Then the pull sharpens.**
+Square.
 
-**She goes inside.**
+Empty except for a chair and a wall of glass.
 
-**INT. ABANDONED BUILDING — DAY**
+No.
 
-**Lights flicker across the walls.**
+Not glass.
 
-**A buzz waits somewhere ahead.**
+A mirror.
 
-**There are more bodies here.**
+She steps over two bodies near the doorway. One is smaller than the other.
 
-**Too many to step around.**
+The buzz grows thin behind her helmet.
 
-**Her boots cross bone, cloth, and the remains of things that once held people upright.**
+Kael walks toward the reflection.
 
-**One room catches her attention.**
+At first, the helmet only gives itself back.
 
-**Square.**
+Dark curve.
 
-**Empty except for a chair and a wall of glass.**
+Dust.
 
-**No.**
+A shape pretending to be a face.
 
-**Not glass.**
+Then the glare shifts.
 
-**A mirror.**
+She sees herself.
 
-**She steps over two bodies near the doorway. One is smaller than the other.**
+The mirror cracks.
 
-**The buzz grows thin behind her helmet.**
+No sound at first.
 
-**Kael walks toward the reflection.**
+Only the line opening across her reflection.
 
-**At first, the helmet only gives itself back.**
+Then the wall shatters.
 
-**Dark curve.**
+A room appears behind it.
 
-**Dust.**
+Kael does not move.
 
-**A shape pretending to be a face.**
+The buzz rises.
 
-**Then the glare shifts.**
+Higher.
 
-**She sees herself.**
+Sharper.
 
-**The mirror cracks.**
+She turns to leave, but the sound climbs again.
 
-**No sound at first.**
+Her knee hits the floor.
 
-**Only the line opening across her reflection.**
+One hand reaches for balance and finds the chair.
 
-**Then the wall shatters.**
-
-**A room appears behind it.**
-
-**Kael does not move.**
-
-**The buzz rises.**
-
-**Higher.**
-
-**Sharper.**
-
-**She turns to leave, but the sound climbs again.**
-
-**Her knee hits the floor.**
-
-**One hand reaches for balance and finds the chair.**
-
-**The moment her fingers touch it, the room answers.**
+The moment her fingers touch it, the room answers.
