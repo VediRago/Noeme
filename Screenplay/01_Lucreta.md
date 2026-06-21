@@ -1,3 +1,4 @@
+```fountain
 Title: NOEME
 Credit: written by
 Author: Diogo Oliveira
@@ -117,3 +118,4 @@ The room lurches sideways. A violent knock tears through everything else, swallo
 Her pale-mint eyes remain fixed and hollow as her body crumples across the floor.
 
 END OF PROLOGUE — NOEME
+```
