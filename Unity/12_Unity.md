@@ -1,481 +1,469 @@
+Title: NOEME
+Credit: written by
+Author: Diogo Oliveira
 
+UNITY
 
+INT. DEVAAR FACILITY — LOWER LEVEL — CONTINUOUS
 
+Waiting for the elevator to rise from the basement, KAEL stands with her arms crossed while SERA paces past her.
 
+SERA
 
+I told you.
 
+Sera stops long enough to knock her fist against the wall.
 
+SERA (CONT'D)
 
+I knew it.
 
-**NOEME**
+She turns back to Kael.
 
-**UNITY**
+SERA (CONT'D)
 
-**written by**
+Didn't I tell you these people were no good?
 
-**Diogo Oliveira**
+She starts pacing again.
 
+SERA (CONT'D)
 
-**INT. DEVAAR FACILITY — LOWER LEVEL — CONTINUOUS**
+Don't. Keep it to yourself.
 
-**Waiting for the elevator to rise from the basement, KAEL stands with her arms crossed while SERA paces past her.**
+Kael drops her arms and lowers her head.
 
-**SERA**
+SERA
 
-**I told you.**
+If they...
 
-**Sera stops long enough to knock her fist against the wall.**
+Sera stops and kicks the wall.
 
-**SERA (CONT'D)**
+SERA (CONT'D)
 
-**I knew it.**
+If they did anything to her...
 
-**She turns back to Kael.**
+The elevator arrives.
 
-**SERA (CONT'D)**
+SERA (CONT'D)
 
-**Didn't I tell you these people were no good?**
+Come on. Let's go.
 
-**She starts pacing again.**
+They step inside.
 
-**SERA (CONT'D)**
+The descent is quick.
 
-**Don't. Keep it to yourself.**
+Too quick.
 
-**Kael drops her arms and lowers her head.**
+At the bottom, Sera turns to Kael.
 
-**SERA**
+SERA
 
-**If they...**
+Don't worry, okay?
 
-**Sera stops and kicks the wall.**
+She places a hand against Kael's face and looks straight into her eyes.
 
-**SERA (CONT'D)**
+SERA (CONT'D)
 
-**If they did anything to her...**
+Whatever happens, it's us against them.
 
-**The elevator arrives.**
+Then, as she turns back, she glances over her shoulder with a smile and lifts her thumb.
 
-**SERA (CONT'D)**
+SERA (CONT'D)
 
-**Come on. Let's go.**
+We got this.
 
-**They step inside.**
+The doors open before they reach them.
 
-**The descent is quick.**
+Inside, a few scientists stop what they are doing.
 
-**Too quick.**
+FEDRA slowly lifts her head from VALKARE's chest.
 
-**At the bottom, Sera turns to Kael.**
+For a few seconds, no one moves.
 
-**SERA**
+Sera sees Fedra first.
 
-**Don't worry, okay?**
+Then Valkare.
 
-**She places a hand against Kael's face and looks straight into her eyes.**
+Then the room around them, full of machines and people who suddenly look guilty.
 
-**SERA (CONT'D)**
+SERA
 
-**Whatever happens, it's us against them.**
+WHAT HAVE YOU DONE TO HER?
 
-**Then, as she turns back, she glances over her shoulder with a smile and lifts her thumb.**
+She walks straight toward them.
 
-**SERA (CONT'D)**
+SERA (CONT'D)
 
-**We got this.**
+What did you do?
 
-**The doors open before they reach them.**
+Kael enters behind her.
 
-**Inside, a few scientists stop what they are doing.**
+Slower.
 
-**FEDRA slowly lifts her head from VALKARE's chest.**
+Her eyes drift to the side.
 
-**For a few seconds, no one moves.**
+ERIT's body lies connected by the same cable she once had.
 
-**Sera sees Fedra first.**
+A small shift of color moves through the room.
 
-**Then Valkare.**
+Then everything pauses.
 
-**Then the room around them, full of machines and people who suddenly look guilty.**
+The sound goes first.
 
-**SERA**
+Motion remains, but only barely.
 
-**WHAT HAVE YOU DONE TO HER?**
+Fedra's mouth opens without a voice.
 
-**She walks straight toward them.**
+Sera's arm lifts through water.
 
-**SERA (CONT'D)**
+Valkare turns too slowly.
 
-**What did you do?**
+Kael sees the cable.
 
-**Kael enters behind her.**
+The body.
 
-**Slower.**
+The face.
 
-**Her eyes drift to the side.**
+Then motion snaps back.
 
-**ERIT's body lies connected by the same cable she once had.**
+Kael is screaming.
 
-**A small shift of color moves through the room.**
+Everyone falls.
 
-**Then everything pauses.**
+Bodies hit the floor as sound returns all at once.
 
-**The sound goes first.**
+Then nothing moves.
 
-**Motion remains, but only barely.**
+Kael drops to her knees.
 
-**Fedra's mouth opens without a voice.**
+Sera is on the floor.
 
-**Sera's arm lifts through water.**
+She crawls toward her.
 
-**Valkare turns too slowly.**
+Her hands slip once, then catch against Sera's clothes.
 
-**Kael sees the cable.**
+She pulls herself closer and holds her.
 
-**The body.**
+No answer.
 
-**The face.**
+No movement.
 
-**Then motion snaps back.**
+Kael looks at Sera's face.
 
-**Kael is screaming.**
+Her body recoils backward until her spine strikes the machine.
 
-**Everyone falls.**
+CUT TO:
 
-**Bodies hit the floor as sound returns all at once.**
+INT. DEVAAR FACILITY — MAINFRAME — CONTINUOUS
 
-**Then nothing moves.**
+It's the seams on the floor that guide her sight toward SERA’S body just ahead.
 
-**Kael drops to her knees.**
+Her back against the mainframe. Arms braced around her knees.
 
-**Sera is on the floor.**
+Fingers slowly curl into a fist.
 
-**She crawls toward her.**
+Her arm rises.
 
-**Her hands slip once, then catch against Sera's clothes.**
+Her lips form the shape of a word Sera taught her.
 
-**She pulls herself closer and holds her.**
+I—
 
-**No answer.**
+She slams it.
 
-**No movement.**
+The impact launches her body forward. Tears scatter with it.
 
-**Kael looks at Sera's face.**
+I—
 
-**Her body recoils backward until her spine strikes the machine.**
+She lifts her head. A tear slides across her cheek as she opposes it.
 
-**CUT TO:**
+Her eyes open.
 
-**INT. DEVAAR FACILITY — MAINFRAME — CONTINUOUS**
+U—
 
-**It's the seams on the floor that guide her sight toward SERA’S body just ahead.**
+She slams it again. Her fist detaches it from her face. The back of her head hits the machine.
 
-**Her back against the mainframe. Arms braced around her knees.**
+She throws the back of her head against the machine, rolling until it stops at the connection port on her arm.
 
-**Fingers slowly curl into a fist.**
+Her eyes gather the distance.
 
-**Her arm rises.**
+She is already lifting herself toward the table.
 
-**Her lips form the shape of a word Sera taught her.**
+Her fingers slide gently over Erit's arm until they reach the cable.
 
-**I—**
+In one motion — turning hers while disconnecting Erit's.
 
-**She slams it.**
+She connects it to herself.
 
-**The impact launches her body forward. Tears scatter with it.**
+— UNITY —
 
-**I—**
+INT. DEVAAR HOUSE — ERIT'S ROOM — [FRAGMENT]
 
-**She lifts her head. A tear slides across her cheek as she opposes it.**
+Fingers adjusting fabric slipping from a shoulder.
 
-**Her eyes open.**
+ERIT'S MOTHER
 
-**U—**
+Erit, stop shifting. You know this is important for your father.
 
-**She slams it again. Her fist detaches it from her face. The back of her head hits the machine.**
+A slight tap against her head.
 
-**She throws the back of her head against the machine, rolling until it stops at the connection port on her arm.**
+ERIT'S MOTHER (CONT'D)
 
-**Her eyes gather the distance.**
+Your family.
 
-**She is already lifting herself toward the table.**
+ERIT
 
-**Her fingers slide gently over Erit's arm until they reach the cable.**
+I just don't like these places. People are—
 
-**In one motion — turning hers while disconnecting Erit's.**
+Weird.
 
-**She connects it to herself.**
+KAEL
 
-**— UNITY —**
+...weird.
 
-**INT. DEVAAR HOUSE — ERIT'S ROOM — \[FRAGMENT\]**
+Her mother gently pushes the hair behind her ear.
 
-**Fingers adjusting fabric slipping from a shoulder.**
+ERIT'S MOTHER
 
-**ERIT'S MOTHER**
+You're spoiled, you know that?
 
-**Erit, stop shifting. You know this is important for your father.**
+Pulling her head back—
 
-**A slight tap against her head.**
+ERIT (CONT'D)
 
-**ERIT'S MOTHER (CONT'D)**
+I'll stay.
 
-**Your family.**
+KAEL
 
-**ERIT**
+Stay...
 
-**I just don't like these places. People are—**
+Erit pushes her mother away as she walks off.
 
-**Weird.**
+Peeking behind a wall.
 
-**KAEL**
+ABBY
 
-**...weird.**
+Sera!
 
-**Her mother gently pushes the hair behind her ear.**
+A sudden shift. Now the ceiling.
 
-**ERIT'S MOTHER**
+ABBY (CONT'D)
 
-**You're spoiled, you know that?**
+Come down right this moment, young girl. Don't make me go there.
 
-**Pulling her head back—**
+Kael tries extending her arm—
 
-**ERIT (CONT'D)**
+There is no movement.
 
-**I'll stay.**
+A gasp.
 
-**KAEL**
+Her hands fail to reach her throat.
 
-**Stay...**
+There is no throat.
 
-**Erit pushes her mother away as she walks off.**
+No breath.
 
-**Peeking behind a wall.**
+Nothing.
 
-**ABBY**
+She surrenders. A familiar woman towers closer with each step.
 
-**Sera!**
+ABBY (CONT'D)
 
-**A sudden shift. Now the ceiling.**
+Where were you?
 
-**ABBY (CONT'D)**
+Abby's eyes lock into Sera's before moving away.
 
-**Come down right this moment, young girl. Don't make me go there.**
+SERA
 
-**Kael tries extending her arm—**
+Dumdum!
 
-**There is no movement.**
+KAEL
 
-**A gasp.**
+Dumdum...
 
-**Her hands fail to reach her throat.**
+Abby glances back—
 
-**There is no throat.**
+ABBY
 
-**No breath.**
+School day, you know that!
 
-**Nothing.**
+KAEL
 
-**She surrenders. A familiar woman towers closer with each step.**
+I don't...
 
-**ABBY (CONT'D)**
+SERA
 
-**Where were you?**
+I don't wanna!
 
-**Abby's eyes lock into Sera's before moving away.**
+Kael starts to fall but there is nothing to fall to—
 
-**SERA**
+VERA
 
-**Dumdum!**
+...fearful of womanhood at the final hour, dear. You linger so long one might think this marriage burdens you terribly.
 
-**KAEL**
+A reflection she has seen countless times.
 
-**Dumdum...**
+LUCRETA
 
-**Abby glances back—**
+No, Vera. Quite the contrary.
 
-**ABBY**
+KAEL
 
-**School day, you know that!**
+Quite the contrary.
 
-**KAEL**
+With a smile that simply persists.
 
-**I don't...**
+LUCRETA
 
-**SERA**
+Nothing could mar this day. There is nothing—
 
-**I don't wanna!**
+KAEL
 
-**Kael starts to fall but there is nothing to fall to—**
+...There is nothing...
 
-**VERA**
+A cut. Hard. Someone else. Somewhere else entirely.
 
-**...fearful of womanhood at the final hour, dear. You linger so long one might think this marriage burdens you terribly.**
+[FRAGMENT — DISTANT]
 
-**A reflection she has seen countless times.**
+Shoving a man against a wall. The tip of a gun presses against his chest.
 
-**LUCRETA**
+UNKNOWN VOICE
 
-**No, Vera. Quite the contrary.**
+Hey pretty guy, those pockets full?
 
-**KAEL**
+KAEL
 
-**Quite the contrary.**
+Hey pretty guy those pockets...
 
-**With a smile that simply persists.**
+The barrel slides across his face. Stops between the eyes.
 
-**LUCRETA**
+KAEL (CONT'D)
 
-**Nothing could mar this day. There is nothing—**
+The wall needs painting. I wouldn't waste...
 
-**KAEL**
+UNKNOWN VOICE
 
-**...There is nothing...**
+The wall needs painting. I don't want to ruin it with a shit brain.
 
-**A cut. Hard. Someone else. Somewhere else entirely.**
+A blow. Falling to her knees.
 
-**\[FRAGMENT — DISTANT\]**
+UNKNOWN VOICE (CONT'D)
 
-**Shoving a man against a wall. The tip of a gun presses against his chest.**
+Julia lo—
 
-**UNKNOWN VOICE**
+Gone.
 
-**Hey pretty guy, those pockets full?**
+[FRAGMENT — FURTHER]
 
-**KAEL**
+A sword thrusts out of a body. She reels in.
 
-**Hey pretty guy those pockets...**
+UNKNOWN VOICE
 
-**The barrel slides across his face. Stops between the eyes.**
+Does this mean it's a big one, dad?
 
-**KAEL (CONT'D)**
+KAEL
 
-**The wall needs painting. I wouldn't waste...**
+Does this mean...
 
-**UNKNOWN VOICE**
+Gone.
 
-**The wall needs painting. I don't want to ruin it with a shit brain.**
+[FRAGMENT — NOISE]
 
-**A blow. Falling to her knees.**
+Staring at a bright sky.
 
-**UNKNOWN VOICE (CONT'D)**
+A reflection in a window.
 
-**Julia lo—**
+A crown of flowers.
 
-**Gone.**
+A bloody hand.
 
-**\[FRAGMENT — FURTHER\]**
+A ripple in—
 
-**A sword thrusts out of a body. She reels in.**
+A light.
 
-**UNKNOWN VOICE**
+Hands.
 
-**Does this mean it's a big one, dad?**
+Cars.
 
-**KAEL**
+People.
 
-**Does this mean...**
+Light.
 
-**Gone.**
+Black.
 
-**\[FRAGMENT — NOISE\]**
+White.
 
-**Staring at a bright sky.**
+DOCTOR (V.O.)
 
-**A reflection in a window.**
+Grey...
 
-**A crown of flowers.**
+INT. HOSPITAL — EXAMINATION ROOM —
 
-**A bloody hand.**
+The ophthalmoscope lowers from her eye.
 
-**A ripple in—**
+DOCTOR
 
-**A light.**
+Never seen those before.
 
-**Hands.**
+He slides his chair back to stand.
 
-**Cars.**
+DOCTOR (CONT'D)
 
-**People.**
+And it's not even grey. It's pale.
 
-**Light.**
+Shifting his shoulder while turning away.
 
-**Black.**
+DOCTOR (CONT'D)
 
-**White.**
+I gotta say, you are quite the miracle, young lady.
 
-**DOCTOR (V.O.)**
+THE GIRL looks at her feet. Noise of life calling her attention.
 
-**Grey...**
+THE GIRL
 
-**INT. HOSPITAL — EXAMINATION ROOM —**
+So I'm okay?
 
-**The ophthalmoscope lowers from her eye.**
+She moves her sight to the window.
 
-**DOCTOR**
+THE GIRL (CONT'D)
 
-**Never seen those before.**
+How long have I been here anyway?
 
-**He slides his chair back to stand.**
+His eyes lift from the folder toward her. He slides a pen into his pocket.
 
-**DOCTOR (CONT'D)**
+DOCTOR
 
-**And it's not even grey. It's pale.**
+Two days.
 
-**Shifting his shoulder while turning away.**
+He walks toward the door.
 
-**DOCTOR (CONT'D)**
+DOCTOR (CONT'D)
 
-**I gotta say, you are quite the miracle, young lady.**
+You can go home now.
 
-**THE GIRL looks at her feet. Noise of life calling her attention.**
+A hop. A few steps. She is at the window.
 
-**THE GIRL**
+The people.
 
-**So I'm okay?**
+The traffic.
 
-**She moves her sight to the window.**
+The stoplights.
 
-**THE GIRL (CONT'D)**
+Cellphones.
 
-**How long have I been here anyway?**
+Cars.
 
-**His eyes lift from the folder toward her. He slides a pen into his pocket.**
+Light.
 
-**DOCTOR**
+THE GIRL
 
-**Two days.**
+I get it now.
 
-**He walks toward the door.**
+She lifts her head to see the bright sky.
 
-**DOCTOR (CONT'D)**
+The doctor glances over his shoulder, stopping as he is about to leave.
 
-**You can go home now.**
+THE GIRL (CONT'D)
 
-**A hop. A few steps. She is at the window.**
+It never ends.
 
-**The people.**
-
-**The traffic.**
-
-**The stoplights.**
-
-**Cellphones.**
-
-**Cars.**
-
-**Light.**
-
-**THE GIRL**
-
-**I get it now.**
-
-**She lifts her head to see the bright sky.**
-
-**The doctor glances over his shoulder, stopping as he is about to leave.**
-
-**THE GIRL (CONT'D)**
-
-**It never ends.**
-
-**— RETURN —**
+— RETURN —
