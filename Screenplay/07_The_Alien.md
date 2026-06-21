@@ -7,9 +7,9 @@
 
 
 
-**NOEME**
+# **NOEME**
 
-**THE ALIEN**
+# **THE ALIEN**
 
 **written by**
 
@@ -22,13 +22,13 @@
 
 **The gardens around it are pristine green, sealed off by golden fences and watched from every side.**
 
-**LINA and MILO drink from the nearby fountain before heading home.**
+**ISILA and CARES drink from the nearby fountain before heading home.**
 
 **EXT. DIRT ROAD — INSULAE PATH — CONTINUOUS**
 
 **The insulae connect through a dirt road hidden from the public path.**
 
-**LINA and MILO walk it kicking rocks, shoving each other, and laughing too loudly for a place that wants silence.**
+**ISILA and CARES walk it kicking rocks, shoving each other, and laughing too loudly for a place that wants silence.**
 
 **Then a beam of light cuts across the road.**
 
@@ -36,35 +36,35 @@
 
 **Both siblings step back.**
 
-**MILO stays closest.**
+**CARES stays closest.**
 
-**LINA looks around, then rushes to the nearest tree and breaks off a stick.**
+**ISILA looks around, then rushes to the nearest tree and breaks off a stick.**
 
-**MILO reaches out and touches the girl's shoulder.**
+**CARES reaches out and touches the girl's shoulder.**
 
-**MILO**
+**CARES**
 
 **I think it's safe.**
 
-**LINA nearly slips against the wall as she hurries back.**
+**ISILA nearly slips against the wall as she hurries back.**
 
-**LINA**
+**ISILA**
 
 **What is it?**
 
-**MILO shrugs.**
+**CARES shrugs.**
 
-**MILO**
+**CARES**
 
 **I'd say it's a girl.**
 
-**LINA**
+**ISILA**
 
 **Of course it's a girl.**
 
-**LINA steps closer.**
+**ISILA steps closer.**
 
-**LINA (CONT'D)**
+**ISILA (CONT'D)**
 
 **But where did she come from? The sky?**
 
@@ -74,81 +74,81 @@
 
 **The girl does not move.**
 
-**LINA (CONT'D)**
+**ISILA (CONT'D)**
 
 **Are you all right?**
 
-**LINA touches the girl's shoulder.**
+**ISILA touches the girl's shoulder.**
 
 **The girl looks directly at her.**
 
-**LINA jumps back.**
+**ISILA jumps back.**
 
-**MILO looks up again.**
+**CARES looks up again.**
 
-**MILO**
+**CARES**
 
 **Do you think she can fly?**
 
-**LINA**
+**ISILA**
 
 **I don't know.**
 
-**LINA leans closer.**
+**ISILA leans closer.**
 
-**LINA (CONT'D)**
+**ISILA (CONT'D)**
 
 **But look at what she's wearing.**
 
-**MILO circles the girl.**
+**CARES circles the girl.**
 
-**MILO**
+**CARES**
 
 **Is that a bag?**
 
-**LINA takes the backpack before the question finishes.**
+**ISILA takes the backpack before the question finishes.**
 
-**LINA gives herself no time to feel guilty before opening it.**
+**ISILA gives herself no time to feel guilty before opening it.**
 
-**MILO (CONT'D)**
+**CARES (CONT'D)**
 
 **She has tiny hidden pockets in her clothes!**
 
-**MILO starts checking them.**
+**CARES starts checking them.**
 
 **The girl only stands there, looking from one child to the other without saying a word.**
 
-**LINA**
+**ISILA**
 
-**She's an alien, Milo.**
+**She's an alien, Cares.**
 
-**LINA spreads crayons and two sandwiches across the dirt.**
+**ISILA spreads crayons and two sandwiches across the dirt.**
 
-**LINA (CONT'D)**
+**ISILA (CONT'D)**
 
 **Look.**
 
-**MILO crouches over them.**
+**CARES crouches over them.**
 
-**MILO**
+**CARES**
 
 **Maybe she fell out of a passing car.**
 
-**LINA**
+**ISILA**
 
 **And landed here?**
 
-**MILO**
+**CARES**
 
 **Maybe that's why Father always tells us to lock the doors.**
 
-**LINA**
+**ISILA**
 
 **Must be.**
 
-**MILO pulls out a folded piece of paper.**
+**CARES pulls out a folded piece of paper.**
 
-**MILO (CONT'D)**
+**CARES (CONT'D)**
 
 **Hey. Look here.**
 
@@ -158,13 +158,13 @@
 
 **What are you two doing to that poor little girl?**
 
-**LINA**
+**ISILA**
 
 **We think she's an alien.**
 
-**LINA says it without hesitation.**
+**ISILA says it without hesitation.**
 
-**LINA (CONT'D)**
+**ISILA (CONT'D)**
 
 **She fell from the sky right here.**
 
@@ -178,15 +178,15 @@
 
 **He keeps walking.**
 
-**LINA**
+**ISILA**
 
 **(whispering)**
 
-**Milo, take the paper to the scriptorium machine. Maybe there's a clue.**
+**Cares, take the paper to the scriptorium machine. Maybe there's a clue.**
 
-**MILO grabs the girl's arm and pulls her along.**
+**CARES grabs the girl's arm and pulls her along.**
 
-**MILO**
+**CARES**
 
 **Come on, little one. We won't let you get lost. We'll find your father.**
 
@@ -196,7 +196,7 @@
 
 **INT. PUBLIC SCRIPTORIUM — CONTINUOUS**
 
-**LINA smooths the paper against the scanner while MILO starts pressing buttons.**
+**ISILA smooths the paper against the scanner while CARES starts pressing buttons.**
 
 **The machine clicks.**
 
@@ -206,15 +206,15 @@
 
 **Error. Unknown.**
 
-**LINA opens her mouth.**
+**ISILA opens her mouth.**
 
-**Then leans close to MILO.**
+**Then leans close to CARES.**
 
-**LINA**
+**ISILA**
 
 **She's an alien.**
 
-**MILO presses another button.**
+**CARES presses another button.**
 
 **MACHINE VOICE**
 
@@ -242,9 +242,9 @@
 
 **They stare at her.**
 
-**MILO points.**
+**CARES points.**
 
-**MILO**
+**CARES**
 
 **You are an alien.**
 
@@ -252,31 +252,31 @@
 
 **Then he shrugs and continues on his way.**
 
-**LINA**
+**ISILA**
 
 **We need to tell Mom.**
 
-**MILO**
+**CARES**
 
 **Put her on my back.**
 
-**MILO kneels.**
+**CARES kneels.**
 
-**MILO (CONT'D)**
+**CARES (CONT'D)**
 
 **Let's run as fast as we can.**
 
-**MILO takes off with SERA clinging to him.**
+**CARES takes off with SERA clinging to him.**
 
-**LINA stays behind for a few steps, looking around to see if anyone noticed.**
+**ISILA stays behind for a few steps, looking around to see if anyone noticed.**
 
-**Then LINA dashes after them.**
+**Then ISILA dashes after them.**
 
 **EXT. STREET — INSULAE PATH — CONTINUOUS**
 
 **They are still far from the door when both siblings start shouting.**
 
-**MILO & LINA**
+**CARES & ISILA**
 
 **MOOOOM!**
 
@@ -286,7 +286,7 @@
 
 **ELENA appears barefoot, one hand over her eyes against the light.**
 
-**MILO & LINA**
+**CARES & ISILA**
 
 **MOM!**
 
@@ -306,15 +306,15 @@
 
 **Who is this little girl?**
 
-**MILO points at SERA.**
+**CARES points at SERA.**
 
-**MILO**
+**CARES**
 
 **Mom, you won't believe this—**
 
-**LINA cuts him off.**
+**ISILA cuts him off.**
 
-**LINA**
+**ISILA**
 
 **She's an alien!**
 
