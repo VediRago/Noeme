@@ -1,161 +1,152 @@
+NOEME
 
+ACT 03 — SERA?
 
+written by
 
+Diogo Oliveira
 
 
+EXT. LAKESIDE DECK — MORNING
 
+Cool water moves softly around her feet. She sits at the edge of the deck hanging over the lake with her eyes closed, morning sun slowly gathering warmth across her skin.
 
+For once, nothing presses against her. No traffic. No voices.
 
+PHIL
 
-**NOEME**
+Not even a good morning, huh?
 
-**ACT 03 — SERA?**
+He pushes aside tangled blankets, his voice still rough with sleep. One eye is all she gives him before her face returns, the motion of her ankles breaking the still water.
 
-**written by**
+PHIL (CONT'D)
 
-**Diogo Oliveira**
+Good morning to you too, sugar puff puff.
 
+See? I know you.
 
-**EXT. LAKESIDE DECK — MORNING**
+Her head leans back into the light. Under the sky, clouds move like light strokes of white.
 
-**Cool water moves softly around her feet. She sits at the edge of the deck hanging over the lake with her eyes closed, morning sun slowly gathering warmth across her skin.**
+ABBY
 
-**For once, nothing presses against her. No traffic. No voices.**
+From the second you wake up, huh?
 
-**PHIL**
+So... have you thought about it yet?
 
-**Not even a good morning, huh?**
+He shades his eyes with his hand.
 
-**He pushes aside tangled blankets, his voice still rough with sleep. One eye is all she gives him before her face returns, the motion of her ankles breaking the still water.**
+PHIL
 
-**PHIL (CONT'D)**
+Thought about what? Should I be reading minds now?
 
-**Good morning to you too, sugar puff puff.**
+ABBY
 
-**See? I know you.**
+The name.
 
-**Her head leans back into the light. Under the sky, clouds move like light strokes of white.**
+PHIL
 
-**ABBY**
+Oh, pfft. Of course. Frisky.
 
-**From the second you wake up, huh?**
+ABBY
 
-**So... have you thought about it yet?**
+Ok.
 
-**He shades his eyes with his hand.**
+His words fall like the surface her feet disrupts.
 
-**PHIL**
+PHIL
 
-**Thought about what? Should I be reading minds now?**
+What? It's how I'd like my cat—
 
-**ABBY**
+ABBY
 
-**The name.**
+Sera.
 
-**PHIL**
+He sits up slightly.
 
-**Oh, pfft. Of course. Frisky.**
+PHIL
 
-**ABBY**
+Sera?
 
-**Ok.**
+She arches her back, closes her eyes, tilts her head toward the sun.
 
-**His words fall like the surface her feet disrupts.**
+ABBY
 
-**PHIL**
+To be. To become something. Something like that.
 
-**What? It's how I'd like my cat—**
+A quiet stretch settles between them.
 
-**ABBY**
+PHIL
 
-**Sera.**
+You didn't think about it at all either, did you?
 
-**He sits up slightly.**
+ABBY
 
-**PHIL**
+You—
 
-**Sera?**
+A sudden grip pulls her into him.
 
-**She arches her back, closes her eyes, tilts her head toward the sun.**
+PHIL
 
-**ABBY**
+I want those...
 
-**To be. To become something. Something like that.**
+Each word a step closer as he meets her lips. Only the birds, the running stream — until she cracks up laughing.
 
-**A quiet stretch settles between them.**
+ABBY
 
-**PHIL**
+Do you n—
 
-**You didn't think about it at all either, did you?**
+A tear slips across her face as she shakes her head to regain composure, blowing a breath out.
 
-**ABBY**
+ABBY (CONT'D)
 
-**You—**
+Phil, stop.
 
-**A sudden grip pulls her into him.**
+She fans her face.
 
-**PHIL**
+PHIL
 
-**I want those...**
+I'm not doing anything.
 
-**Each word a step closer as he meets her lips. Only the birds, the running stream — until she cracks up laughing.**
+He falls back into the grass.
 
-**ABBY**
+PHIL (CONT'D)
 
-**Do you n—**
+I finished my thesis.
 
-**A tear slips across her face as she shakes her head to regain composure, blowing a breath out.**
+ABBY
 
-**ABBY (CONT'D)**
+The one you tried explaining to me fifty-two times?
 
-**Phil, stop.**
+I didn't understand a word.
 
-**She fans her face.**
+PHIL
 
-**PHIL**
+That's because you refuse to appreciate genius.
 
-**I'm not doing anything.**
+Fifty-seven.
 
-**He falls back into the grass.**
+He gently kicks her leg.
 
-**PHIL (CONT'D)**
+ABBY
 
-**I finished my thesis.**
+You started talking about it in tenth grade?
 
-**ABBY**
+She throws dirt at him.
 
-**The one you tried explaining to me fifty-two times?**
+PHIL
 
-**I didn't understand a word.**
+Seventh.
 
-**PHIL**
+She leans over his chest.
 
-**That's because you refuse to appreciate genius.**
+He wipes dirt from his shirt, looking up at her.
 
-**Fifty-seven.**
+ABBY
 
-**He gently kicks her leg.**
+Wow, that's been a while, huh?
 
-**ABBY**
+She falls back into the grass.
 
-**You started talking about it in tenth grade?**
+ABBY (CONT'D)
 
-**She throws dirt at him.**
-
-**PHIL**
-
-**Seventh.**
-
-**She leans over his chest.**
-
-**He wipes dirt from his shirt, looking up at her.**
-
-**ABBY**
-
-**Wow, that's been a while, huh?**
-
-**She falls back into the grass.**
-
-**ABBY (CONT'D)**
-
-**I didn't read it.**
+I didn't read it.
