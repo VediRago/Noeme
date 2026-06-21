@@ -8,6 +8,8 @@ NOEME appears first, letter by letter. PROTOTYPE follows after, building from th
 
 During the disappearance, PROTOTYPE breaks first. Letters vanish from its outermost positions. Each paired disappearance lights a letter in NOEME, gradually spelling “ONE ME” backwards until only the left O remains.
 
+As the “ONE ME” reading becomes visible, one of the eyes turns pale. This connects the title animation back to the visual language of the Condition.
+
 The final O from PROTOTYPE falls into the O of NOEME. Once the two O letters meet, NOEME begins disappearing letter by letter, now spelling “ONE ME” forward.
 
 `Teaser.gif` is used for quick viewing inside GitHub.
