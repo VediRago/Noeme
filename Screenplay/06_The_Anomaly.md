@@ -1,11 +1,8 @@
-NOEME
+Title: NOEME
+Credit: written by
+Author: Diogo Oliveira
 
 THE ANOMALY
-
-written by
-
-Diogo Oliveira
-
 
 EXT. CITY ROOFTOP — DAY
 
