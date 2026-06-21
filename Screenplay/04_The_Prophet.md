@@ -1,11 +1,8 @@
-NOEME
+Title: NOEME
+Credit: written by
+Author: Diogo Oliveira
 
 THE PROPHET
-
-written by
-
-Diogo Oliveira
-
 
 INT. PHIL & ABBY'S BEDROOM — NIGHT
 
