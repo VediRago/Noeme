@@ -13,11 +13,11 @@ This repository is the clean presentation portfolio for the project. It is not t
 ## Start Here
 
 1. [`00_Pitch.md`](00_Pitch.md) — the series pitch
-2. [`Pilot Bible.docx`](Pilot%20Bible.docx) — the pilot bible
-3. [`Noeme_Act01_Lucrete_Script.docx`](Noeme_Act01_Lucrete_Script.docx) — Act 1 script
-4. [`Noeme_Act02_Parents_Pt1_Script.docx`](Noeme_Act02_Parents_Pt1_Script.docx) — Act 2, Part 1 script
-5. [`Unity/Unity.md`](Unity/Unity.md) — how the hidden separations begin to fail
-6. [`Narrative Architecture/`](Narrative%20Architecture/) — how the series layers, bridges, and stretches meaning across episodes
+2. [`01_Teaser.md`](01_Teaser.md) — the teaser page
+3. [`04_PILOT_BIBLE.md`](04_PILOT_BIBLE.md) — the pilot bible
+4. [`05_METHOD.md`](05_METHOD.md) — the document pipeline
+5. [`Screenplay/README.md`](Screenplay/README.md) — screenplay samples
+6. [`Unity/Unity.md`](Unity/Unity.md) — how the hidden separations begin to fail
 
 ## Folder Guide
 
@@ -25,7 +25,7 @@ This repository is the clean presentation portfolio for the project. It is not t
 
 [`Blueprints/`](Blueprints/) holds scene-level breakdowns for Act 1 (Lucreta) and Act 2 (Parents), plus standalone sample scenes used to demonstrate tone and structure.
 
-[`Narrative Architecture/`](Narrative%20Architecture/) holds the reference documents that explain how the series holds together across episodes: bridges, motifs, cosmology, and the layered narrative method.
+[`Screenplay/`](Screenplay/) holds the screenplay samples selected from different points of NOEME.
 
 [`Unity/`](Unity/) holds the documents explaining how the story begins and ends, and the mechanism — Unity — that governs the separations at its center.
 
