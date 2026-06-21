@@ -1,6 +1,5 @@
-# 10 — Sera / Rain Alley
+10 — Sera / Rain Alley
 
-```screenplay
 EXT. CITY STREET — RAIN — DAY
 
 Rainwater beneath SERA'S feet detaches her from the flow of bodies around her.
@@ -63,31 +62,36 @@ Sera tilts her head.
 
 Her hand lands on her waist.
 
-SERA  
+SERA
+
 You look like this city has given a face.
 
 The hooded figure's eyes snap back.
 
 Narrowing.
 
-SERA  
+SERA
+
 Oh really?
 
 Sera shifts her head to the other side while reaching into the opposite pocket.
 
-SERA  
+SERA
+
 There are tons. I mean a TON of loonies around here.
 
 She crouches down to the figure's height and offers a chocolate.
 
-SERA  
+SERA
+
 But you ain't one of 'em.
 
 Sera smiles.
 
 Voices appear, lingering at the mouth of the alley.
 
-VOICE (O.S.)  
+VOICE (O.S.)
+
 Hey, little girl—
 
 The world goes mute.
@@ -108,14 +112,16 @@ When she decides to face the figure, she does it very slowly.
 
 Standing on the tips of her toes for no good reason.
 
-SERA  
+SERA
+
 And soo... what's your name—
 
 Her lips have not even touched to finish the sentence.
 
 Her eyes widen.
 
-SERA  
+SERA
+
 Kill?!?!
 
 She looks down.
@@ -123,9 +129,7 @@ She looks down.
 An extended palm.
 
 An empty wrapper.
-```
 
 NOTE: Kael does not speak her name aloud. She communicates it telepathically. Sera receives or understands the name as “Kill,” not “Kael.”
 
----
 © Diogo Oliveira — June 2026
