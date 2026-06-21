@@ -18,7 +18,7 @@
 
 **INT. ELENA'S HOME — DINING AREA — NIGHT**
 
-**LINA, MILO, and SERA sit at the table while ELENA prepares dinner.**
+**ISILA, CARES, and SERA sit at the table while ELENA prepares dinner.**
 
 **The siblings play with each other, laughing between bites of air and unfinished words.**
 
@@ -44,7 +44,7 @@
 
 **ELENA looks at SERA once, then follows him.**
 
-**LINA and MILO slip away toward their room, still whispering to each other, their laughter smaller now.**
+**ISILA and CARES slip away toward their room, still whispering to each other, their laughter smaller now.**
 
 **SERA lowers her eyes to the table.**
 
