@@ -1,16 +1,10 @@
+Title: NOEME
+Credit: written by
+Author: Diogo Oliveira
 
+A Chance Of Luck
 
-
-**NOEME**
-
-**A Chance Of Luck**
-
-**written by**
-
-**Diogo Oliveira**
-
-
-**INT. OLD CHAPEL — CONTINUOUS**
+INT. OLD CHAPEL — CONTINUOUS
 
 Darkness behind a chapel bench.
 
@@ -42,9 +36,9 @@ He puts on his sunglasses before brushing any of it off.
 
 They step outside, the chapel’s fake celebration still stuck to them.
 
-**CUT TO:**
+CUT TO:
 
-**EXT. CITY STREET — CONTINUOUS**
+EXT. CITY STREET — CONTINUOUS
 
 The outside world enters before their faces.
 
@@ -512,5 +506,4 @@ PHIL (CONT'D)
 
 This is our new home.
 
-
-**END OF CHAPTER — NOEME**
+END OF CHAPTER — NOEME
