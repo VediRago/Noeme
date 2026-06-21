@@ -1,8 +1,6 @@
 # Screenplay Samples
 
-The following screenplay samples were selected from different points of NOEME.
-
-They are not consecutive scenes and do not represent a complete act.
+Selected screenplay samples from NOEME.
 
 ## Samples
 
@@ -17,7 +15,4 @@ They are not consecutive scenes and do not represent a complete act.
 9. [Face of the City](09_Face_Of_The_City.md)
 10. [Inverted Tears](10_Inverted_Tears.md)
 
-Unity material is kept in the Unity folder.
-
----
-© Diogo Oliveira — June 2026
+Unity material is kept in [`Unity/`](../Unity/).
