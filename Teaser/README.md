@@ -1,28 +1,20 @@
 # Teaser
 
-This folder contains the NOEME teaser assets.
+NOEME / PROTOTYPE intro sequence.
 
-The teaser presents the NOEME / PROTOTYPE intro through two faces, timed fades, letter animation, blur, and glow.
+## Files
 
-NOEME appears first, letter by letter. PROTOTYPE follows after, building from the center outward.
+- [`Teaser.gif`](Teaser.gif) — quick preview
+- [`Teaser.mp4`](Teaser.mp4) — full playback
+- [`Teaser HTML.md`](Teaser%20HTML.md) — HTML/CSS implementation
 
-During the disappearance, PROTOTYPE breaks first. Letters vanish from its outermost positions. Each paired disappearance lights a letter in NOEME, gradually spelling “ONE ME” backwards until only the left O remains.
+## Sequence
 
-As the “ONE ME” reading becomes visible, one of the eyes turns pale. This connects the title animation back to the visual language of the Condition.
+NOEME appears first. PROTOTYPE follows, building from the center outward.
 
-The final O from PROTOTYPE falls into the O of NOEME. Once the two O letters meet, NOEME begins disappearing letter by letter, now spelling “ONE ME” forward.
+PROTOTYPE disappears first. Its letters vanish from the outside inward while NOEME gradually reveals ONE ME.
 
-## Animation Design
-
-The teaser was built in HTML/CSS rather than assembled only as a static video. The sequence uses individually timed letter animations, opacity transitions, blur effects, glow states, and eye-state changes.
-
-Small timing adjustments, often between 0.01 and 0.2 seconds, were used to synchronize the disappearance of PROTOTYPE, the emergence of “ONE ME,” the pale-eye transition, and the final convergence of the O letters.
-
-`Teaser HTML.md` contains the implementation and timing code used to build the animation.
-
-`Teaser.gif` is used for quick viewing inside GitHub.
-
-`Teaser.mp4` is the full playback version.
+The final O from PROTOTYPE falls into the O of NOEME. Once the two O letters meet, NOEME disappears letter by letter.
 
 ---
 © Diogo Oliveira — June 2026
