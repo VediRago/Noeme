@@ -27,10 +27,8 @@ This repository is the clean presentation portfolio for the project. It is not t
 
 [`Screenplay/`](Screenplay/) holds the screenplay samples selected from different points of NOEME.
 
-[`Unity/`](Unity/) holds the documents explaining how the story begins and ends, and the mechanism — Unity — that governs the separations at its center.
+[`Unity/`](Unity/) holds the documents explaining — Unity — mechanism how the story ends, how it connects everything.
 
 [`Teaser/`](Teaser/) holds the teaser materials: video, gif, and slide.
 
-## Repository Rule
 
-Keep this repo simple. Prefer concise prose over long bullet lists. Use bullets only for reading order, file indexes, chronology, or essential production information.
