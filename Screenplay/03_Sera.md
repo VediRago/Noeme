@@ -1,11 +1,8 @@
-NOEME
+Title: NOEME
+Credit: written by
+Author: Diogo Oliveira
 
 ACT 03 — SERA?
-
-written by
-
-Diogo Oliveira
-
 
 EXT. LAKESIDE DECK — MORNING
 
