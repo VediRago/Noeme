@@ -7,7 +7,7 @@ This folder keeps the Unity material apart from the general screenplay samples b
 ## Files
 
 - [`Unity.md`](Unity.md) — explanation of Unity, Kael's anomaly, and the hidden system
-- [`12_Unity_Screenplay.docx`](12_Unity_Screenplay.docx) — Unity screenplay
+- [`12_Unity_Screenplay.md`](12_Unity_Screenplay.md) — Unity screenplay
 
 ---
 
