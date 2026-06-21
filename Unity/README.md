@@ -1,12 +1,13 @@
 # Unity
 
-Unity is the point where the hidden separations inside NOEME begin to fail.
+Unity is where NOEME's separations begin to collapse.
 
-This folder holds the project-facing explanation of that mechanism: how the fragments connect, why Kael becomes the anomaly, and how the ending changes what the system can resolve.
+This folder keeps the Unity material apart from the general screenplay samples because it belongs to the story's convergence point.
 
-## File
+## Files
 
-- [`Unity.md`](Unity.md) — explanation of Unity, Kael's anomaly, the hidden system, and the continuation pattern
+- [`Unity.md`](Unity.md) — explanation of Unity, Kael's anomaly, and the hidden system
+- Unity screenplay — to be added here once the screenplay file is placed in this folder
 
 ---
 
