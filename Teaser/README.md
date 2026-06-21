@@ -12,11 +12,17 @@ As the “ONE ME” reading becomes visible, one of the eyes turns pale. This co
 
 The final O from PROTOTYPE falls into the O of NOEME. Once the two O letters meet, NOEME begins disappearing letter by letter, now spelling “ONE ME” forward.
 
+## Animation Design
+
+The teaser was built in HTML/CSS rather than assembled only as a static video. The sequence uses individually timed letter animations, opacity transitions, blur effects, glow states, and eye-state changes.
+
+Small timing adjustments, often between 0.01 and 0.2 seconds, were used to synchronize the disappearance of PROTOTYPE, the emergence of “ONE ME,” the pale-eye transition, and the final convergence of the O letters.
+
+`Teaser HTML.md` contains the implementation and timing code used to build the animation.
+
 `Teaser.gif` is used for quick viewing inside GitHub.
 
 `Teaser.mp4` is the full playback version.
-
-`Teaser HTML.md` contains the HTML/CSS structure used to build the teaser animation.
 
 ---
 © Diogo Oliveira — June 2026
