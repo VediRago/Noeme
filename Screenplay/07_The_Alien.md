@@ -1,333 +1,321 @@
+Title: NOEME
+Credit: written by
+Author: Diogo Oliveira
 
+THE ALIEN
 
+EXT. ERIT IMPERIAL GARDENS — DAY
 
+Two siblings play under the shadow of the emperor's statue.
 
+The gardens around it are pristine green, sealed off by golden fences and watched from every side.
 
+ISILA and CARES drink from the nearby fountain before heading home.
 
+EXT. DIRT ROAD — INSULAE PATH — CONTINUOUS
 
+The insulae connect through a dirt road hidden from the public path.
 
+ISILA and CARES walk it kicking rocks, shoving each other, and laughing too loudly for a place that wants silence.
 
-# **NOEME**
+Then a beam of light cuts across the road.
 
-# **THE ALIEN**
+A child appears in front of them.
 
-**written by**
+Both siblings step back.
 
-**Diogo Oliveira**
+CARES stays closest.
 
+ISILA looks around, then rushes to the nearest tree and breaks off a stick.
 
-**EXT. ERIT IMPERIAL GARDENS — DAY**
+CARES reaches out and touches the girl's shoulder.
 
-**Two siblings play under the shadow of the emperor's statue.**
+CARES
 
-**The gardens around it are pristine green, sealed off by golden fences and watched from every side.**
+I think it's safe.
 
-**ISILA and CARES drink from the nearby fountain before heading home.**
+ISILA nearly slips against the wall as she hurries back.
 
-**EXT. DIRT ROAD — INSULAE PATH — CONTINUOUS**
+ISILA
 
-**The insulae connect through a dirt road hidden from the public path.**
+What is it?
 
-**ISILA and CARES walk it kicking rocks, shoving each other, and laughing too loudly for a place that wants silence.**
+CARES shrugs.
 
-**Then a beam of light cuts across the road.**
+CARES
 
-**A child appears in front of them.**
+I'd say it's a girl.
 
-**Both siblings step back.**
+ISILA
 
-**CARES stays closest.**
+Of course it's a girl.
 
-**ISILA looks around, then rushes to the nearest tree and breaks off a stick.**
+ISILA steps closer.
 
-**CARES reaches out and touches the girl's shoulder.**
+ISILA (CONT'D)
 
-**CARES**
+But where did she come from? The sky?
 
-**I think it's safe.**
+They both look up.
 
-**ISILA nearly slips against the wall as she hurries back.**
+Then back down.
 
-**ISILA**
+The girl does not move.
 
-**What is it?**
+ISILA (CONT'D)
 
-**CARES shrugs.**
+Are you all right?
 
-**CARES**
+ISILA touches the girl's shoulder.
 
-**I'd say it's a girl.**
+The girl looks directly at her.
 
-**ISILA**
+ISILA jumps back.
 
-**Of course it's a girl.**
+CARES looks up again.
 
-**ISILA steps closer.**
+CARES
 
-**ISILA (CONT'D)**
+Do you think she can fly?
 
-**But where did she come from? The sky?**
+ISILA
 
-**They both look up.**
+I don't know.
 
-**Then back down.**
+ISILA leans closer.
 
-**The girl does not move.**
+ISILA (CONT'D)
 
-**ISILA (CONT'D)**
+But look at what she's wearing.
 
-**Are you all right?**
+CARES circles the girl.
 
-**ISILA touches the girl's shoulder.**
+CARES
 
-**The girl looks directly at her.**
+Is that a bag?
 
-**ISILA jumps back.**
+ISILA takes the backpack before the question finishes.
 
-**CARES looks up again.**
+ISILA gives herself no time to feel guilty before opening it.
 
-**CARES**
+CARES (CONT'D)
 
-**Do you think she can fly?**
+She has tiny hidden pockets in her clothes!
 
-**ISILA**
+CARES starts checking them.
 
-**I don't know.**
+The girl only stands there, looking from one child to the other without saying a word.
 
-**ISILA leans closer.**
+ISILA
 
-**ISILA (CONT'D)**
+She's an alien, Cares.
 
-**But look at what she's wearing.**
+ISILA spreads crayons and two sandwiches across the dirt.
 
-**CARES circles the girl.**
+ISILA (CONT'D)
 
-**CARES**
+Look.
 
-**Is that a bag?**
+CARES crouches over them.
 
-**ISILA takes the backpack before the question finishes.**
+CARES
 
-**ISILA gives herself no time to feel guilty before opening it.**
+Maybe she fell out of a passing car.
 
-**CARES (CONT'D)**
+ISILA
 
-**She has tiny hidden pockets in her clothes!**
+And landed here?
 
-**CARES starts checking them.**
+CARES
 
-**The girl only stands there, looking from one child to the other without saying a word.**
+Maybe that's why Father always tells us to lock the doors.
 
-**ISILA**
+ISILA
 
-**She's an alien, Cares.**
+Must be.
 
-**ISILA spreads crayons and two sandwiches across the dirt.**
+CARES pulls out a folded piece of paper.
 
-**ISILA (CONT'D)**
+CARES (CONT'D)
 
-**Look.**
+Hey. Look here.
 
-**CARES crouches over them.**
+An old man slows on the path.
 
-**CARES**
+OLD MAN
 
-**Maybe she fell out of a passing car.**
+What are you two doing to that poor little girl?
 
-**ISILA**
+ISILA
 
-**And landed here?**
+We think she's an alien.
 
-**CARES**
+ISILA says it without hesitation.
 
-**Maybe that's why Father always tells us to lock the doors.**
+ISILA (CONT'D)
 
-**ISILA**
+She fell from the sky right here.
 
-**Must be.**
+The old man looks at the girl.
 
-**CARES pulls out a folded piece of paper.**
+Then at the scattered crayons.
 
-**CARES (CONT'D)**
+OLD MAN
 
-**Hey. Look here.**
+You kids...
 
-**An old man slows on the path.**
+He keeps walking.
 
-**OLD MAN**
+ISILA
 
-**What are you two doing to that poor little girl?**
+(whispering)
 
-**ISILA**
+Cares, take the paper to the scriptorium machine. Maybe there's a clue.
 
-**We think she's an alien.**
+CARES grabs the girl's arm and pulls her along.
 
-**ISILA says it without hesitation.**
+CARES
 
-**ISILA (CONT'D)**
+Come on, little one. We won't let you get lost. We'll find your father.
 
-**She fell from the sky right here.**
+The girl follows.
 
-**The old man looks at the girl.**
+She does not cry.
 
-**Then at the scattered crayons.**
+INT. PUBLIC SCRIPTORIUM — CONTINUOUS
 
-**OLD MAN**
+ISILA smooths the paper against the scanner while CARES starts pressing buttons.
 
-**You kids...**
+The machine clicks.
 
-**He keeps walking.**
+A voice answers.
 
-**ISILA**
+MACHINE VOICE
 
-**(whispering)**
+Error. Unknown.
 
-**Cares, take the paper to the scriptorium machine. Maybe there's a clue.**
+ISILA opens her mouth.
 
-**CARES grabs the girl's arm and pulls her along.**
+Then leans close to CARES.
 
-**CARES**
+ISILA
 
-**Come on, little one. We won't let you get lost. We'll find your father.**
+She's an alien.
 
-**The girl follows.**
+CARES presses another button.
 
-**She does not cry.**
+MACHINE VOICE
 
-**INT. PUBLIC SCRIPTORIUM — CONTINUOUS**
+Error. Unknown.
 
-**ISILA smooths the paper against the scanner while CARES starts pressing buttons.**
+Another.
 
-**The machine clicks.**
+MACHINE VOICE
 
-**A voice answers.**
+Error. Unknown.
 
-**MACHINE VOICE**
+They keep going.
 
-**Error. Unknown.**
+Citizens pass by without giving much attention to the two children beating a public machine while a silent girl stands beside them.
 
-**ISILA opens her mouth.**
+Then the machine stutters.
 
-**Then leans close to CARES.**
+The voice changes.
 
-**ISILA**
+MACHINE VOICE (CONT'D)
 
-**She's an alien.**
+Please take care of my daughter. Her name is Sera, and she is from another world.
 
-**CARES presses another button.**
+Both siblings jump back.
 
-**MACHINE VOICE**
+They stare at her.
 
-**Error. Unknown.**
+CARES points.
 
-**Another.**
+CARES
 
-**MACHINE VOICE**
+You are an alien.
 
-**Error. Unknown.**
+A passerby stops for a second.
 
-**They keep going.**
+Then he shrugs and continues on his way.
 
-**Citizens pass by without giving much attention to the two children beating a public machine while a silent girl stands beside them.**
+ISILA
 
-**Then the machine stutters.**
+We need to tell Mom.
 
-**The voice changes.**
+CARES
 
-**MACHINE VOICE (CONT'D)**
+Put her on my back.
 
-**Please take care of my daughter. Her name is Sera, and she is from another world.**
+CARES kneels.
 
-**Both siblings jump back.**
+CARES (CONT'D)
 
-**They stare at her.**
+Let's run as fast as we can.
 
-**CARES points.**
+CARES takes off with SERA clinging to him.
 
-**CARES**
+ISILA stays behind for a few steps, looking around to see if anyone noticed.
 
-**You are an alien.**
+Then ISILA dashes after them.
 
-**A passerby stops for a second.**
+EXT. STREET — INSULAE PATH — CONTINUOUS
 
-**Then he shrugs and continues on his way.**
+They are still far from the door when both siblings start shouting.
 
-**ISILA**
+CARES & ISILA
 
-**We need to tell Mom.**
+MOOOOM!
 
-**CARES**
+ELENA (O.S.)
 
-**Put her on my back.**
+What?
 
-**CARES kneels.**
+ELENA appears barefoot, one hand over her eyes against the light.
 
-**CARES (CONT'D)**
+CARES & ISILA
 
-**Let's run as fast as we can.**
+MOM!
 
-**CARES takes off with SERA clinging to him.**
+ELENA starts running toward them.
 
-**ISILA stays behind for a few steps, looking around to see if anyone noticed.**
+ELENA
 
-**Then ISILA dashes after them.**
+What's wrong? What happened?
 
-**EXT. STREET — INSULAE PATH — CONTINUOUS**
+The children stop in front of her, both trying to catch their breath.
 
-**They are still far from the door when both siblings start shouting.**
+ELENA looks past them.
 
-**CARES & ISILA**
+Her voice softens.
 
-**MOOOOM!**
+ELENA (CONT'D)
 
-**ELENA (O.S.)**
+Who is this little girl?
 
-**What?**
+CARES points at SERA.
 
-**ELENA appears barefoot, one hand over her eyes against the light.**
+CARES
 
-**CARES & ISILA**
+Mom, you won't believe this—
 
-**MOM!**
+ISILA cuts him off.
 
-**ELENA starts running toward them.**
+ISILA
 
-**ELENA**
+She's an alien!
 
-**What's wrong? What happened?**
+ELENA kneels in front of SERA.
 
-**The children stop in front of her, both trying to catch their breath.**
+For a moment, nothing is said.
 
-**ELENA looks past them.**
+ELENA extends her hand.
 
-**Her voice softens.**
+ELENA
 
-**ELENA (CONT'D)**
+Come inside, little one.
 
-**Who is this little girl?**
+FADE TO BLACK.
 
-**CARES points at SERA.**
-
-**CARES**
-
-**Mom, you won't believe this—**
-
-**ISILA cuts him off.**
-
-**ISILA**
-
-**She's an alien!**
-
-**ELENA kneels in front of SERA.**
-
-**For a moment, nothing is said.**
-
-**ELENA extends her hand.**
-
-**ELENA**
-
-**Come inside, little one.**
-
-**FADE TO BLACK.**
-
-**END ACT 07**
+END ACT 07
