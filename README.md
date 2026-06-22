@@ -8,7 +8,7 @@ NOEME is a serialized drama about separation, identity, inheritance, memory, lov
 
 The pilot introduces NOEME through Lucreta, a bride who collapses before reaching her wedding, and Phil and Abby, newlyweds escaping a compressed city toward a life they do not yet understand. One life is denied the future. Another proves the future exists.
 
-This repository is the clean presentation portfolio for the project. It is not the workshop archive. Development notes, experiments, and rough internal material should stay outside this repo unless they have been shaped into a readable portfolio document.
+This repository gathers the core NOEME material: pitch, teaser, pilot bible, prose samples, screenplay samples, and Unity documents.
 
 ## Start Here
 
@@ -27,8 +27,6 @@ This repository is the clean presentation portfolio for the project. It is not t
 
 [`Screenplay/`](Screenplay/) holds the screenplay samples selected from different points of NOEME.
 
-[`Unity/`](Unity/) holds the documents explaining — Unity — mechanism how the story ends, how it connects everything.
+[`Unity/`](Unity/) holds the Unity documents and screenplay, where the story's separated lives begin to collapse.
 
 [`Teaser/`](Teaser/) holds the teaser materials: video, gif, and slide.
-
-
