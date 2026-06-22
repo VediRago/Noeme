@@ -1,38 +1,42 @@
-Title: NOEME
-Credit: written by
-Author: Diogo Oliveira
+```text
+    NOEME
+   THE HINT
+  written by
+Diogo Oliveira
 
-THE HINT
 
 INT. ELENA'S HOME — DINING AREA — NIGHT
 
-ISILA, CARES, and SERA sit at the table while ELENA prepares dinner.
+ISILA, CARES, and SERA sit at the table while ELENA prepares
+dinner.
 
-The siblings play with each other, laughing between bites of air and unfinished words.
+The siblings play with each other, laughing between bites
+of air and unfinished words.
 
-SERA slides her finger across the cracks in the wooden table.
+SERA slides her finger across the cracks in the wooden
+table.
 
 It stops when a distant door slams shut.
 
-TOMAS (O.S.)
+                         TOMAS (O.S.)
+               Why are you two making so much
+               noise?
 
-Why are you two making so much noise?
+TOMAS shuts the door hard behind him. As he passes SERA,
+his shoulder clips her.
 
-TOMAS shuts the door hard behind him. As he passes SERA, his shoulder clips her.
-
-TOMAS
-
-Sit down!
+                           TOMAS
+               Sit down!
 
 The siblings go still.
 
-TOMAS (CONT'D)
-
-Elena. Room. Now.
+                         TOMAS (CONT'D)
+               Elena. Room. Now.
 
 ELENA looks at SERA once, then follows him.
 
-ISILA and CARES slip away toward their room, still whispering to each other, their laughter smaller now.
+ISILA and CARES slip away toward their room, still whispering
+to each other, their laughter smaller now.
 
 SERA lowers her eyes to the table.
 
@@ -50,47 +54,47 @@ Her finger detaches from the crack.
 
 TOMAS comes out first.
 
-TOMAS
+                           TOMAS
 
-Let's go. We have to take you to the clinic.
 
-ELENA follows behind him, crying, unable to look directly at SERA.
+                  Let's go. We have to take you
+                  to the clinic.
 
-SERA
+ELENA follows behind him, crying, unable to look directly
+at SERA.
 
-Why? Is she sick?
+                            SERA
+                  Why? Is she sick?
 
 No one answers.
 
 SERA stands.
 
-SERA (CONT'D)
-
-Okay. I'll go.
+                            SERA (CONT'D)
+                  Okay. I'll go.
 
 TOMAS grabs his coat.
 
-TOMAS
-
-You didn't really have an option. Let's go.
+                            TOMAS
+                  You didn't really have an
+                  option. Let's go.
 
 As SERA leaves, ELENA rushes after TOMAS and grabs his arm.
 
-ELENA
-
-Please. She's just a child. It's been seven years, Tomas. She's our own.
+                            ELENA
+                  Please. She's just a child.
+                  It's been seven years, Tomas.
+                  She's our own.
 
 TOMAS pulls his arm free.
 
-TOMAS
-
-And I'm somehow unaware of that?
+                            TOMAS
+                  And I'm somehow unaware of that?
 
 He turns back to her.
 
-TOMAS (CONT'D)
-
-Look at us. Look at me.
+                            TOMAS (CONT'D)
+                  Look at us. Look at me.
 
 His mouth opens again, but nothing comes out.
 
@@ -98,13 +102,16 @@ He shakes his head and leaves.
 
 EXT. ELENA'S HOME — NIGHT
 
-SERA waits outside, leaning against the wall, looking at the sky.
+SERA waits outside, leaning against the wall, looking at
+the sky.
 
-When SERA'S eyes shift toward TOMAS, she catches his hand crossing his face as he walks through the dim entryway.
+When SERA'S eyes shift toward TOMAS, she catches his hand
 
-TOMAS
 
-Come on. Let's go.
+crossing his face as he walks through the dim entryway.
+
+                          TOMAS
+                Come on. Let's go.
 
 TOMAS passes her and walks ahead.
 
@@ -116,41 +123,41 @@ Two LEGION GUARDS stand by the doorway.
 
 TOMAS halts.
 
-TOMAS
-
-Sera.
+                            TOMAS
+                Sera.
 
 He looks around.
 
-TOMAS (CONT'D)
-
-Sera!
+                            TOMAS (CONT'D)
+                Sera!
 
 SERA hurries closer.
 
-SERA
+                            SERA
+                I'm here.
 
-I'm here.
-
-TOMAS
-
-You have to get chipped.
+                          TOMAS
+                You have to get chipped.
 
 TOMAS puts a hand on her shoulder.
 
-TOMAS (CONT'D)
-
-It's the right thing to do. You're getting older. Soon you'll need it for everything. Identification, work, travel, food access.
+                          TOMAS (CONT'D)
+                It's the right thing to do.
+                You're getting older. Soon
+                you'll need it for everything.
+                Identification, work, travel,
+                food access.
 
 His fingers tighten slightly.
 
-TOMAS (CONT'D)
-
-We can't shelter you like this anymore.
+                          TOMAS (CONT'D)
+                We can't shelter you like this
+                anymore.
 
 SERA lowers her head.
 
 Not for long.
+
 
 Then she steps ahead of him toward the clinic.
 
@@ -160,85 +167,86 @@ INT. CLINIC — RECEPTION — CONTINUOUS
 
 A WOMAN behind the glass writes without looking up.
 
-WOMAN
+                         WOMAN
+               Any appointments?
 
-Any appointments?
+                         SERA
+               I'm here for a chip.
 
-SERA
-
-I'm here for a chip.
-
-WOMAN
-
-A chip?
+                         WOMAN
+               A chip?
 
 The woman finally lifts her head.
 
-WOMAN (CONT'D)
-
-Weren't you chipped as a baby? Everyone is.
+                         WOMAN (CONT'D)
+               Weren't you chipped as a baby?
+               Everyone is.
 
 TOMAS steps in beside SERA.
 
-TOMAS
-
-Her mother was homeless. Her father was probably some addict. Probably died. We weren't aware she didn't have one until recently.
+                         TOMAS
+               Her mother was homeless. Her
+               father was probably some
+               addict. Probably died. We
+               weren't aware she didn't have
+               one until recently.
 
 The woman lowers her head again.
 
-WOMAN
-
-I see.
+                         WOMAN
+               I see.
 
 Her pen moves across the form.
 
-WOMAN (CONT'D)
+                         WOMAN (CONT'D)
+               Name?
 
-Name?
-
-SERA
-
-Sera.
+                         SERA
+               Sera.
 
 Her legs begin to tremble.
 
-WOMAN
+                         WOMAN
+               I'll call you in a second.
 
-I'll call you in a second. Waiting room is to the left.
+
+               Waiting room is to the left.
 
 TOMAS turns toward the chairs.
 
-TOMAS
-
-Go. I'll be here when you're done.
+                         TOMAS
+               Go. I'll be here when you're
+               done.
 
 SERA walks toward the waiting room.
 
 Her name sounds from the speaker before she reaches a seat.
 
-SPEAKER
-
-Sera. Room two.
+                         SPEAKER
+               Sera. Room two.
 
 Her steps shorten.
 
-SPEAKER (CONT'D)
-
-Sera. Room two.
+                         SPEAKER (CONT'D)
+               Sera. Room two.
 
 INT. CLINIC — ROOM TWO — CONTINUOUS
 
 SERA stops before the door.
 
-DOCTOR (O.S.)
+                         DOCTOR (O.S.)
+               Come in. Sit right there,
+               please.
 
-Come in. Sit right there, please.
+The DOCTOR stands and opens a cabinet, taking out a small
+machine.
 
-The DOCTOR stands and opens a cabinet, taking out a small machine.
-
-DOCTOR
-
-Don't worry. This won't hurt. I just need a small amount of blood so we can enter your biometrics into the system, okay?
+                         DOCTOR
+               Don't worry. This won't hurt. I
+               just need a small amount of
+               blood so we can enter your
+               biometrics into the system,
+               okay?
 
 SERA shakes harder.
 
@@ -246,11 +254,11 @@ A prick.
 
 A drop.
 
-DOCTOR
-
-See? All done.
+                         DOCTOR
+               See? All done.
 
 The DOCTOR releases the blood into the machine.
+
 
 The screen blinks orange.
 
@@ -258,9 +266,8 @@ ON SCREEN: MATCH FOUND.
 
 His expression changes.
 
-DOCTOR
-
-Hm. Strange. One moment.
+                            DOCTOR
+                  Hm. Strange. One moment.
 
 He leaves too quickly.
 
@@ -288,9 +295,8 @@ SERA throws herself backward.
 
 The door slams into the first guard.
 
-GUARD
-
-Get her!
+                             GUARD
+                  Get her!
 
 She runs.
 
@@ -304,6 +310,7 @@ For one second, his eyes find hers.
 
 Then he steps into the line.
 
+
 Three shots crack through the clinic.
 
 SERA looks back once.
@@ -312,6 +319,7 @@ TOMAS is already falling.
 
 Then she faces forward and disappears into the night.
 
-FADE TO BLACK.
+                                         FADE TO BLACK.
 
-END ACT 09
+                            END ACT 09
+```
