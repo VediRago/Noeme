@@ -28,6 +28,6 @@ This repository gathers the core NOEME material: pitch, teaser, pilot bible, pro
 
 [`Screenplay/`](Screenplay/) holds the screenplay samples selected from different points of NOEME.
 
-[`Unity/`](Unity/) holds the Unity documents and screenplay, where the story's separated lives begin to collapse.
+[`Unity/`](Unity/)  not the game engine. This is the story's central narrative event: the screenplay scene where Kael and Erit's fragments collide, plus a breakdown of the mechanism behind it.
 
 [`Teaser/`](Teaser/) holds the teaser materials: video, gif, and slide.
