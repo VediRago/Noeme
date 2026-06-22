@@ -14,10 +14,11 @@ This repository gathers the core NOEME material: pitch, teaser, pilot bible, pro
 
 1. [`00_Pitch.md`](00_Pitch.md) — the series pitch
 2. [`01_Teaser.md`](01_Teaser.md) — the teaser page
-3. [`04_PILOT_BIBLE.md`](04_PILOT_BIBLE.md) — the pilot bible
-4. [`05_METHOD.md`](05_METHOD.md) — the document pipeline
-5. [`Screenplay/README.md`](Screenplay/README.md) — screenplay samples
-6. [`Unity/Unity.md`](Unity/Unity.md) — how the hidden separations begin to fail
+3. [`Screenplay/01_Lucreta.md`](Screenplay/01_Lucreta.md) — pilot screenplay sample: Lucreta
+4. [`Screenplay/02_A_Chance_Of_Luck.md`](Screenplay/02_A_Chance_Of_Luck.md) — pilot screenplay sample: A Chance of Luck
+5. [`04_PILOT_BIBLE.md`](04_PILOT_BIBLE.md) — the pilot bible
+6. [`05_METHOD.md`](05_METHOD.md) — the document pipeline
+7. [`Unity/Unity.md`](Unity/Unity.md) — how the hidden separations begin to fail
 
 ## Folder Guide
 
