@@ -1,4 +1,4 @@
-Lina, Milo, and Sera sit at the table while Elena prepares dinner.
+Lina, Milo, and Sera sit at the table while Venisa prepares dinner.
 
 The siblings play with each other, laughing between bites of air and unfinished words.
 
@@ -8,15 +8,15 @@ It stops when a distant door slams shut.
 
 “Why are you two making so much noise?”
 
-Tomas shuts the door hard behind him. As he passes Sera, his shoulder clips her.
+Luras shuts the door hard behind him. As he passes Sera, his shoulder clips her.
 
 “Sit down!”
 
 The siblings go still.
 
-“Elena. Room. Now.”
+“Venisa. Room. Now.”
 
-Elena looks at Sera once, then follows him.
+Venisa looks at Sera once, then follows him.
 
 Lina and Milo slip away toward their room, still whispering to each other, their laughter smaller now.
 
@@ -26,7 +26,7 @@ Her finger starts moving again.
 
 It does not last long.
 
-Elena begins crying behind the door.
+Venisa begins crying behind the door.
 
 Sera’s head turns.
 
@@ -34,11 +34,11 @@ Heavy footsteps come closer.
 
 Her finger detaches from the crack.
 
-Tomas comes out first.
+Luras comes out first.
 
 “Let’s go. We have to take you to the clinic.”
 
-Elena follows behind him, crying, unable to look directly at Sera.
+Venisa follows behind him, crying, unable to look directly at Sera.
 
 “Why?” Sera asks, still staring at the cracked wood. “Is she sick?”
 
@@ -48,11 +48,11 @@ Sera stands.
 
 “Okay. I’ll go.”
 
-“You didn’t really have an option.” Tomas grabs his coat. “Let’s go.”
+“You didn’t really have an option.” Luras grabs his coat. “Let’s go.”
 
-As Sera leaves, Elena rushes after him and grabs his arm.
+As Sera leaves, Venisa rushes after him and grabs his arm.
 
-“Please. She’s just a child. It’s been seven years, Tomas. She’s our own.”
+“Please. She’s just a child. It’s been seven years, Luras. She’s our own.”
 
 He pulls his arm free.
 
@@ -72,13 +72,13 @@ When her eyes shift toward him, she catches only the light crossing his face as 
 
 “Come on. Let’s go.”
 
-Tomas passes her and walks ahead.
+Luras passes her and walks ahead.
 
 The clinic does not take long to come into view.
 
 Two Legion guards stand by the doorway.
 
-Tomas halts.
+Luras halts.
 
 “Sera.”
 
@@ -92,7 +92,7 @@ She hurries closer.
 
 “You have to get chipped.”
 
-Tomas puts a hand on her shoulder.
+Luras puts a hand on her shoulder.
 
 “It’s the right thing to do. You’re getting older. Soon you’ll need it for everything. Identification, work, travel, food access.”
 
@@ -118,7 +118,7 @@ The woman finally lifts her head.
 
 “Weren’t you chipped as a baby? Everyone is.”
 
-Tomas steps in beside her.
+Luras steps in beside her.
 
 “Her mother was homeless. Her father was probably some addict. Probably died. We weren’t aware she didn’t have one until recently.”
 
@@ -136,7 +136,7 @@ Her legs begin to tremble.
 
 “I’ll call you in a second. Waiting room is to the left.”
 
-Tomas turns toward the chairs.
+Luras turns toward the chairs.
 
 “Go. I’ll be here when you’re done.”
 
@@ -208,7 +208,7 @@ She runs.
 
 The guards raise their weapons.
 
-As she passes the waiting room, Tomas stands.
+As she passes the waiting room, Luras stands.
 
 For one second, his eyes find hers.
 
@@ -218,6 +218,6 @@ Three shots crack through the clinic.
 
 Sera looks back once.
 
-Tomas is already falling.
+Luras is already falling.
 
 Then she faces forward and disappears into the night.
