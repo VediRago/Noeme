@@ -5,9 +5,9 @@
 Diogo Oliveira
 
 
-INT. ELENA'S HOME — DINING AREA — NIGHT
+INT. VENISA'S HOME — DINING AREA — NIGHT
 
-ISILA, CARES, and SERA sit at the table while ELENA prepares
+ISILA, CARES, and SERA sit at the table while VENISA prepares
 dinner.
 
 The siblings play with each other, laughing between bites
@@ -18,22 +18,22 @@ table.
 
 It stops when a distant door slams shut.
 
-                         TOMAS (O.S.)
+                         LURAS (O.S.)
                Why are you two making so much
                noise?
 
-TOMAS shuts the door hard behind him. As he passes SERA,
+LURAS shuts the door hard behind him. As he passes SERA,
 his shoulder clips her.
 
-                           TOMAS
+                           LURAS
                Sit down!
 
 The siblings go still.
 
-                         TOMAS (CONT'D)
-               Elena. Room. Now.
+                         LURAS (CONT'D)
+               Venisa. Room. Now.
 
-ELENA looks at SERA once, then follows him.
+VENISA looks at SERA once, then follows him.
 
 ISILA and CARES slip away toward their room, still whispering
 to each other, their laughter smaller now.
@@ -44,7 +44,7 @@ Her finger starts moving again.
 
 It does not last long.
 
-ELENA begins crying behind the door.
+VENISA begins crying behind the door.
 
 SERA's head turns.
 
@@ -52,15 +52,15 @@ Heavy footsteps come closer.
 
 Her finger detaches from the crack.
 
-TOMAS comes out first.
+LURAS comes out first.
 
-                           TOMAS
+                           LURAS
 
 
                   Let's go. We have to take you
                   to the clinic.
 
-ELENA follows behind him, crying, unable to look directly
+VENISA follows behind him, crying, unable to look directly
 at SERA.
 
                             SERA
@@ -73,47 +73,47 @@ SERA stands.
                             SERA (CONT'D)
                   Okay. I'll go.
 
-TOMAS grabs his coat.
+LURAS grabs his coat.
 
-                            TOMAS
+                            LURAS
                   You didn't really have an
                   option. Let's go.
 
-As SERA leaves, ELENA rushes after TOMAS and grabs his arm.
+As SERA leaves, VENISA rushes after LURAS and grabs his arm.
 
-                            ELENA
+                            VENISA
                   Please. She's just a child.
-                  It's been seven years, Tomas.
+                  It's been seven years, Luras.
                   She's our own.
 
-TOMAS pulls his arm free.
+LURAS pulls his arm free.
 
-                            TOMAS
+                            LURAS
                   And I'm somehow unaware of that?
 
 He turns back to her.
 
-                            TOMAS (CONT'D)
+                            LURAS (CONT'D)
                   Look at us. Look at me.
 
 His mouth opens again, but nothing comes out.
 
 He shakes his head and leaves.
 
-EXT. ELENA'S HOME — NIGHT
+EXT. VENISA'S HOME — NIGHT
 
 SERA waits outside, leaning against the wall, looking at
 the sky.
 
-When SERA'S eyes shift toward TOMAS, she catches his hand
+When SERA'S eyes shift toward LURAS, she catches his hand
 
 
 crossing his face as he walks through the dim entryway.
 
-                          TOMAS
+                          LURAS
                 Come on. Let's go.
 
-TOMAS passes her and walks ahead.
+LURAS passes her and walks ahead.
 
 EXT. CLINIC — NIGHT
 
@@ -121,14 +121,14 @@ The clinic does not take long to come into view.
 
 Two LEGION GUARDS stand by the doorway.
 
-TOMAS halts.
+LURAS halts.
 
-                            TOMAS
+                            LURAS
                 Sera.
 
 He looks around.
 
-                            TOMAS (CONT'D)
+                            LURAS (CONT'D)
                 Sera!
 
 SERA hurries closer.
@@ -136,12 +136,12 @@ SERA hurries closer.
                             SERA
                 I'm here.
 
-                          TOMAS
+                          LURAS
                 You have to get chipped.
 
-TOMAS puts a hand on her shoulder.
+LURAS puts a hand on her shoulder.
 
-                          TOMAS (CONT'D)
+                          LURAS (CONT'D)
                 It's the right thing to do.
                 You're getting older. Soon
                 you'll need it for everything.
@@ -150,7 +150,7 @@ TOMAS puts a hand on her shoulder.
 
 His fingers tighten slightly.
 
-                          TOMAS (CONT'D)
+                          LURAS (CONT'D)
                 We can't shelter you like this
                 anymore.
 
@@ -182,9 +182,9 @@ The woman finally lifts her head.
                Weren't you chipped as a baby?
                Everyone is.
 
-TOMAS steps in beside SERA.
+LURAS steps in beside SERA.
 
-                         TOMAS
+                         LURAS
                Her mother was homeless. Her
                father was probably some
                addict. Probably died. We
@@ -212,9 +212,9 @@ Her legs begin to tremble.
 
                Waiting room is to the left.
 
-TOMAS turns toward the chairs.
+LURAS turns toward the chairs.
 
-                         TOMAS
+                         LURAS
                Go. I'll be here when you're
                done.
 
@@ -304,7 +304,7 @@ INT. CLINIC — RECEPTION — CONTINUOUS
 
 The guards raise their weapons.
 
-As SERA passes the waiting room, TOMAS stands.
+As SERA passes the waiting room, LURAS stands.
 
 For one second, his eyes find hers.
 
@@ -315,7 +315,7 @@ Three shots crack through the clinic.
 
 SERA looks back once.
 
-TOMAS is already falling.
+LURAS is already falling.
 
 Then she faces forward and disappears into the night.
 
