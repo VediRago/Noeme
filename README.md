@@ -10,14 +10,6 @@ The pilot introduces NOEME through Lucreta, a bride who collapses before reachin
 
 This repository gathers the core NOEME material: pitch, teaser, pilot bible, prose samples, screenplay samples, and Unity documents.
 
-## Game Design Portfolio
-
-For the game-facing narrative design portfolio, including the playable Twine prototype:
-
-[Diogo Oliveira — Narrative Design Portfolio](https://github.com/VediRago/diogo-oliveira-portfolio)
-
-[Play the Layer Test Twine Prototype](https://raw.githack.com/VediRago/diogo-oliveira-portfolio/main/Layer%20Test%20Twine/index.html)
-
 ## Start Here
 
 1. [`00_Pitch.md`](00_Pitch.md) — series pitch
