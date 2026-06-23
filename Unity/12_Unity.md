@@ -186,7 +186,6 @@ U—
 She slams it again. Her fist detaches it from her face. The
 back of her head hits the machine.
 
-She throws the back of her head against the machine,
 rolling until it stops at the connection port on her arm.
 
 Her eyes gather the distance.
