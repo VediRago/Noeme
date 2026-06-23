@@ -43,7 +43,7 @@ The audience does not receive an explanation connecting these three movements. T
 
 ## TEASER
 
-**Duration:** ~90 seconds. No dialogue. No narration.
+**Duration:** ~20 seconds. No dialogue. No narration.
 
 The teaser is the show's premise disguised as a title card. It teaches the audience what FRAGMENTS is about before they know they are being taught.
 
