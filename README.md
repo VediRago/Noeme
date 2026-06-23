@@ -16,7 +16,7 @@ For the game-facing narrative design portfolio, including the playable Twine pro
 
 [Diogo Oliveira — Narrative Design Portfolio](https://github.com/VediRago/diogo-oliveira-portfolio)
 
-[Play the Layer Test Twine Prototype](https://raw.githack.com/VediRago/diogo-oliveira-portfolio/main/Layer%20Test%20Twine/play.html)
+[Play the Layer Test Twine Prototype](https://raw.githack.com/VediRago/diogo-oliveira-portfolio/main/Layer%20Test%20Twine/index.html)
 
 ## Start Here
 
