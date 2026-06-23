@@ -231,7 +231,7 @@ Her mother gently pushes the hair behind her ear.
                          ERIT'S MOTHER
                You're spoiled, you know that?
 
-Pulling her head back—
+ERIT pulls her head back—
 
                             ERIT (CONT'D)
                I'll stay.
