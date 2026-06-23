@@ -6,7 +6,7 @@
 
 ## SERIES OVERVIEW
 
-**FRAGMENTS** is an animated dramatic series built around a single hidden truth: across vastly different worlds, times, and lives, one underlying self keeps fragmenting into separate people. They do not share memory. They do not know each other. They simply — and fatally — share a pattern.
+**Noeme** is an animated dramatic series built around a single hidden truth: across vastly different worlds, times, and lives, one underlying self keeps fragmenting into separate people. They do not share memory. They do not know each other. They simply — and fatally — share a pattern.
 
 **The Condition** takes their eye color first. Then it takes everything else.
 
