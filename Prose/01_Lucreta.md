@@ -1,6 +1,6 @@
-Prologue
+#Prologue
 
-Lucreta
+##Lucreta
 
 She sits quietly on the corner of her bed. The room dims with passing clouds through the steel framed window. Vera arranges the headdress of white orchids and rosemary, carefully weaving them into her crimson hair.
 
