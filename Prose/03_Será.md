@@ -1,12 +1,8 @@
----
+# Será?
 
 Cool water moves softly around her feet.
 
-She sits at the edge do the deck hanging over the lake with her eyes closed, morning sun slowly gathers warmth across her skin.
-
-For once, nothing presses against her.  
-No traffic.    
-No voices.
+She sits at the edge do the deck hanging over the lake with her eyes closed, morning sun slowly gathers warmth across her skin. For once, nothing presses against her. No traffic. No voices.
 
 “Not even a good morning, huh?” He pushes aside tangled blankets as the words reach her through a voice still rough with sleep
 
@@ -56,9 +52,7 @@ A sudden grip pulls her into him
 
 “I want those…”
 
-Each word a step closer as he meets her lips.
-
-Only the birds, the running stream
+Each word a step closer as he meets her lips. Only the birds, the running stream
 
 Until she cracks up laughing
 
@@ -97,4 +91,3 @@ Uses the moment to lean close to his face
 She falls back into the grass
 
 “I didnt read it”
-
